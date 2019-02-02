@@ -13,10 +13,9 @@ jobs:
               git config --global user.email "kazuya.fb@gmail.com"
 
       - run:
-          name: hugo and rename
+          name: hugo
           command: |
               hugo
-              mv public/ docs/
 
       - run:
           name: publish
