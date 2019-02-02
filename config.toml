@@ -1,4 +1,4 @@
-baseURL = "https://jumperson.github.io/blog"
+baseURL = "http://jumperson.github.com/blog/public/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "er"
