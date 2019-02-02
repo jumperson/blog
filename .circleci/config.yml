@@ -9,7 +9,6 @@ jobs:
       - run:
           name: git config
           command: |
-              go get -v github.com/spf13/hugo
               git config --global user.name "jumperson"
               git config --global user.email "kazuya.fb@gmail.com"
 
