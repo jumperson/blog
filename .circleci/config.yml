@@ -1,0 +1,28 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: cibuilds/hugo:latest
+
+    steps:
+      - checkout
+      - run:
+          name: git config
+          command: |
+              go get -v github.com/spf13/hugo
+              git config --global user.name "jumperson"
+              git config --global user.email "kazuya.fb@gmail.com"
+
+      - run:
+          name: hugo and rename
+          command: |
+              hugo
+              mv public/ docs/
+
+      - run:
+          name: publish
+          command: |
+              git remote set-url origin git@github.com:jumperson/blog.git
+              git add .
+              git commit -m "[ci skip] publish"
+              git push origin master
