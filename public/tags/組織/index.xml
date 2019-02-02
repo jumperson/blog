@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>組織 on My New Hugo Site</title>
+    <link>https://jumperson.github.io/blog/tags/%E7%B5%84%E7%B9%94/</link>
+    <description>Recent content in 組織 on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Dec 2018 17:17:55 +0900</lastBuildDate>
+    
+	<atom:link href="https://jumperson.github.io/blog/tags/%E7%B5%84%E7%B9%94/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>読みました マイクロサービスチーム編成のベストプラクティスとメルカリでの構想</title>
+      <link>https://jumperson.github.io/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%83%81%E3%83%BC%E3%83%A0%E7%B7%A8%E6%88%90%E3%81%AE%E3%83%99%E3%82%B9%E3%83%88%E3%83%97%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%82%B9%E3%81%A8%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AA%E3%81%A7%E3%81%AE%E6%A7%8B%E6%83%B3/</link>
+      <pubDate>Mon, 03 Dec 2018 17:17:55 +0900</pubDate>
+      
+      <guid>https://jumperson.github.io/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%83%81%E3%83%BC%E3%83%A0%E7%B7%A8%E6%88%90%E3%81%AE%E3%83%99%E3%82%B9%E3%83%88%E3%83%97%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%82%B9%E3%81%A8%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AA%E3%81%A7%E3%81%AE%E6%A7%8B%E6%83%B3/</guid>
+      <description>マイクロサービスチーム編成のベストプラクティスとメルカリでの構想 - Mercari Engineering Blog を読みました。
+マイクロサービスを行っている組織の紹介があり、以下のようにまとめられていました。
+ チームにソフトウェア全般に関する自由度と責任の両方を与え、自己組織化されたチームとすることで、すばやく「より良い」ソフトウェアを開発できるようになり、これこそがマイクロサービスアーキテクチャのメリットとされています。
+ マイクロサービスの肝は組織と文化だと思っているのですが、どの程度浸透しているのでしょうか。</description>
+    </item>
+    
+  </channel>
+</rss>

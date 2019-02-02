@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>設計 on My New Hugo Site</title>
+    <link>https://jumperson.github.io/blog/tags/%E8%A8%AD%E8%A8%88/</link>
+    <description>Recent content in 設計 on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Dec 2018 16:49:31 +0900</lastBuildDate>
+    
+	<atom:link href="https://jumperson.github.io/blog/tags/%E8%A8%AD%E8%A8%88/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>読みました 心理的安全を担保するために、友達同士で設計について語る会を開いた</title>
+      <link>https://jumperson.github.io/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E5%BF%83%E7%90%86%E7%9A%84%E5%AE%89%E5%85%A8%E3%82%92%E6%8B%85%E4%BF%9D%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E5%8F%8B%E9%81%94%E5%90%8C%E5%A3%AB%E3%81%A7%E8%A8%AD%E8%A8%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%AA%9E%E3%82%8B%E4%BC%9A%E3%82%92%E9%96%8B%E3%81%84%E3%81%9F/</link>
+      <pubDate>Mon, 03 Dec 2018 16:49:31 +0900</pubDate>
+      
+      <guid>https://jumperson.github.io/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E5%BF%83%E7%90%86%E7%9A%84%E5%AE%89%E5%85%A8%E3%82%92%E6%8B%85%E4%BF%9D%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E5%8F%8B%E9%81%94%E5%90%8C%E5%A3%AB%E3%81%A7%E8%A8%AD%E8%A8%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%AA%9E%E3%82%8B%E4%BC%9A%E3%82%92%E9%96%8B%E3%81%84%E3%81%9F/</guid>
+      <description>心理的安全を担保するために、友達同士で設計について語る会を開いた - 📦田中、仙台に生きる📦 を読みました。
+炎上しそうな話題は小規模に、心理的安全性を担保するように1度やってみるのは良いなと思いました。</description>
+    </item>
+    
+    <item>
+      <title>読みました エンジニアリングマネージャーとソフトウェア設計者に共通するスキルを考えてみた</title>
+      <link>https://jumperson.github.io/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%9E%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%BC%E3%81%A8%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E8%A8%AD%E8%A8%88%E8%80%85%E3%81%AB%E5%85%B1%E9%80%9A%E3%81%99%E3%82%8B%E3%82%B9%E3%82%AD%E3%83%AB%E3%82%92%E8%80%83%E3%81%88%E3%81%A6%E3%81%BF%E3%81%9F/</link>
+      <pubDate>Mon, 03 Dec 2018 16:30:22 +0900</pubDate>
+      
+      <guid>https://jumperson.github.io/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%9E%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%BC%E3%81%A8%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E8%A8%AD%E8%A8%88%E8%80%85%E3%81%AB%E5%85%B1%E9%80%9A%E3%81%99%E3%82%8B%E3%82%B9%E3%82%AD%E3%83%AB%E3%82%92%E8%80%83%E3%81%88%E3%81%A6%E3%81%BF%E3%81%9F/</guid>
+      <description>エンジニアリングマネージャーとソフトウェア設計者に共通するスキルを考えてみた - Mercari Engineering Blog を読みました。
+ エンジニアリングマネージャーとソフトウェア設計者には「緊張関係にある複数の要素に対して、なんとかバランスを取る」という共通の構造がある これを行うために重要な要素は「視点」「フォーカス」「説明力」の3つ  所感 共通するスキルは多くの人と関わって仕事をする上で必要なスキルで、エンジニアリングマネージャーとソフトウェア設計者に限らないと感じました。</description>
+    </item>
+    
+  </channel>
+</rss>
