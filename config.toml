@@ -2,5 +2,4 @@ baseURL = "https://jumperson.github.com/blog/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "er"
-canonifyurls = true
 publishDir = "docs"
