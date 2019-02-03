@@ -21,7 +21,7 @@ jobs:
       - run:
           name: merge to master
           command: |
-            git checkout -b master origin master
+            git checkout -b master origin/master
             git merge compilation
 
       - run:
