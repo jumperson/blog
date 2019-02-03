@@ -23,9 +23,10 @@ jobs:
       - run:
           name: merge to master
           command: |
-            git checkout master
+            git branch -D master
+            git checkout -b master origin/master
             git pull
-            # git merge compilation --no-edit
+            git merge compilation --no-edit
 
       - run:
           name: hugo
