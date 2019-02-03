@@ -24,14 +24,8 @@ jobs:
           name: merge to master
           command: |
             git checkout master
-            git status
-            git diff
             git pull
-            git status
-            git diff
-            git merge compilation --no-edit
-            git status
-            git diff
+            # git merge compilation --no-edit
 
       - run:
           name: hugo
