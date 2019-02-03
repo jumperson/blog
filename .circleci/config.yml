@@ -24,7 +24,7 @@ jobs:
             git branch
             git checkout master
             git pull
-            git merge compilation -m "AUTO MERGE compilation branch at circle ci. ${CIRCLE_BUILD_URL}"
+            git merge compilation --no-edit -m "AUTO MERGE compilation branch at circle ci. ${CIRCLE_BUILD_URL}" 
 
       - run:
           name: hugo
