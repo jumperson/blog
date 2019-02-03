@@ -3,7 +3,9 @@ jobs:
   build:
     docker:
       - image: cibuilds/hugo:latest
-
+    branches:
+        only:
+          - compilation
     steps:
       - checkout
       - run:
@@ -16,6 +18,11 @@ jobs:
           command: |
               git config --global user.name "jumperson"
               git config --global user.email "kazuya.fb@gmail.com"
+      - run:
+          name: merge to master
+          command: |
+            git checkout -b master origin master
+            git merge compilation
 
       - run:
           name: hugo
