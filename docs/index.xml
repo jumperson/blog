@@ -6,10 +6,21 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Feb 2019 21:38:58 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 04 Feb 2019 11:49:55 +0900</lastBuildDate>
     
 	<atom:link href="https://jumperson.github.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>読みました 旅をしながら仕事をする、あるいはリモートワークができるチームの作り方の話</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E6%97%85%E3%82%92%E3%81%97%E3%81%AA%E3%81%8C%E3%82%89%E4%BB%95%E4%BA%8B%E3%82%92%E3%81%99%E3%82%8B%E3%81%82%E3%82%8B%E3%81%84%E3%81%AF%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%81%E3%83%BC%E3%83%A0%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%E3%81%AE%E8%A9%B1/</link>
+      <pubDate>Mon, 04 Feb 2019 11:49:55 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E6%97%85%E3%82%92%E3%81%97%E3%81%AA%E3%81%8C%E3%82%89%E4%BB%95%E4%BA%8B%E3%82%92%E3%81%99%E3%82%8B%E3%81%82%E3%82%8B%E3%81%84%E3%81%AF%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%81%E3%83%BC%E3%83%A0%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%E3%81%AE%E8%A9%B1/</guid>
+      <description>旅をしながら仕事をする、あるいはリモートワークができるチームの作り方の話 - tomoima525&amp;rsquo;s blog を読みました。
+リモートメンバーが働きやすいチームとは何かについて触れられているとのことで読んでみました。 以下のことが書かれていました。
+ コミュニケーションコストを低くする  情報源をひとつに集約する ミーティングを避ける  タスクにコミットメントする仕組みづくり  チーム全員が目標に対して責任を持つ OKRなどの手法 チーム全員がタスクの達成条件を明確にする カンバンなどの手法  リモートメンバーを信頼するマインドセットの醸成  &amp;ldquo;ひとりにしない(left alone)&amp;ldquo;ことも重要だが、&amp;rdquo;ひとりで自走できる(be able to run alone)&amp;ldquo;も重要 リモートメンバーを信頼するための&amp;rdquo;問いかけ&amp;rdquo;については以下のブログがとても参考になる Managing Remote Teams - A Crash Course - Startup Lessons Learned   リモートワークを行う上では行うメンバーと受け入れるチームの両方がそのための工夫を行う必要があります。 実践を通した内容でそれらの事に振られれていた記事でした。</description>
+    </item>
     
     <item>
       <title>読みました Ubie株式会社の就業規則</title>
