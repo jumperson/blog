@@ -1,6 +1,7 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "{{ .Name | title }}"
 date: {{ .Date }}
-draft: true
+draft: false
+tags: [ "未分類" ]
 ---
 
