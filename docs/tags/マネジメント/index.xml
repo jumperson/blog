@@ -6,10 +6,20 @@
     <description>Recent content in マネジメント on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Dec 2018 16:30:22 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 11 Feb 2019 15:13:35 +0900</lastBuildDate>
     
 	<atom:link href="https://jumperson.github.com/blog/tags/%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>読みました-エンジニアリングマネージャーってどうなの？メルカリEMが本音を明かす</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%9E%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%BC%E3%81%A3%E3%81%A6%E3%81%A9%E3%81%86%E3%81%AA%E3%81%AE%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AAem%E3%81%8C%E6%9C%AC%E9%9F%B3%E3%82%92%E6%98%8E%E3%81%8B%E3%81%99/</link>
+      <pubDate>Mon, 11 Feb 2019 15:13:35 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%9E%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%BC%E3%81%A3%E3%81%A6%E3%81%A9%E3%81%86%E3%81%AA%E3%81%AE%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AAem%E3%81%8C%E6%9C%AC%E9%9F%B3%E3%82%92%E6%98%8E%E3%81%8B%E3%81%99/</guid>
+      <description>エンジニアリングマネージャーってどうなの？　メルカリEMが本音を明かす - mercan（メルカン） を読みました。
+メルカリのエンジニアリングのマネジメントに関わってる方々の登壇記事です。 それぞれの立場でマネジメントについて広く語られていました。</description>
+    </item>
     
     <item>
       <title>読みました-エンジニアリングマネージャーとソフトウェア設計者に共通するスキルを考えてみた</title>
