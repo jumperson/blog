@@ -6,10 +6,21 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Feb 2019 19:55:02 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 27 Feb 2019 13:48:34 +0900</lastBuildDate>
     
 	<atom:link href="https://jumperson.github.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>読みました-自動テストのスタブ・スパイ・モックの違い</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E8%87%AA%E5%8B%95%E3%83%86%E3%82%B9%E3%83%88%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%96%E3%82%B9%E3%83%91%E3%82%A4%E3%83%A2%E3%83%83%E3%82%AF%E3%81%AE%E9%81%95%E3%81%84/</link>
+      <pubDate>Wed, 27 Feb 2019 13:48:34 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E8%87%AA%E5%8B%95%E3%83%86%E3%82%B9%E3%83%88%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%96%E3%82%B9%E3%83%91%E3%82%A4%E3%83%A2%E3%83%83%E3%82%AF%E3%81%AE%E9%81%95%E3%81%84/</guid>
+      <description>自動テストのスタブ・スパイ・モックの違い | gotohayato を読みました。
+タイトルには「自動」と入っていますが、自動テストに関わらず、全てのソフトウェアテストで通用する内容でした。 本記事ではxUnit Test Patterns: Refactoring Test Codeで紹介されている定義をベースに、以下の紹介をしていました。
+ テストスタブ テストスパイ モックオブジェクト フェイクオブジェクト ダミーオブジェクト  これらの用語は言葉の定義を忘れがちなので、忘れるたびに見返したいです。</description>
+    </item>
     
     <item>
       <title>読みました-スクラムイベントに出席しない優秀で不可欠な（？）エンジニアをどう扱うか</title>
