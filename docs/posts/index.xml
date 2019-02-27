@@ -6,10 +6,20 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Feb 2019 13:58:35 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 27 Feb 2019 15:26:17 +0900</lastBuildDate>
     
 	<atom:link href="https://jumperson.github.com/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>読みました-Service LocatorとDependency InjectionパターンとDI Container</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-service-locator%E3%81%A8dependency-injection%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E3%81%A8di-container/</link>
+      <pubDate>Wed, 27 Feb 2019 15:26:17 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-service-locator%E3%81%A8dependency-injection%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E3%81%A8di-container/</guid>
+      <description>Service LocatorとDependency InjectionパターンとDI Container - nuits.jp blog を読みました。
+ServiceLocatorパターンを知らなかったため読みました。 DIと同じようなパターンでその違いがわかりやすくまとめられていました。 結論だけ書いておくとServiceLocatorよりDIの方が良いとのこと。</description>
+    </item>
     
     <item>
       <title>読みました-組織をファーストではなく、セカンドで合わせる。</title>
