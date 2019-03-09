@@ -6,10 +6,21 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Feb 2019 17:29:42 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 09 Mar 2019 12:48:08 +0900</lastBuildDate>
     
 	<atom:link href="https://jumperson.github.com/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>読みました-サービスに求められるものを、6段階に分類する</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AB%E6%B1%82%E3%82%81%E3%82%89%E3%82%8C%E3%82%8B%E3%82%82%E3%81%AE%E3%82%926%E6%AE%B5%E9%9A%8E%E3%81%AB%E5%88%86%E9%A1%9E%E3%81%99%E3%82%8B/</link>
+      <pubDate>Sat, 09 Mar 2019 12:48:08 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AB%E6%B1%82%E3%82%81%E3%82%89%E3%82%8C%E3%82%8B%E3%82%82%E3%81%AE%E3%82%926%E6%AE%B5%E9%9A%8E%E3%81%AB%E5%88%86%E9%A1%9E%E3%81%99%E3%82%8B/</guid>
+      <description>サービスに求められるものを、6段階に分類する｜深津 貴之 (fladdict)｜note を読みました。
+デザイナの深津さんの記事で、UXを６段階に分類していました。
+ Lv 1. 機能がある Lv 2. 安全と安心 Lv 3. 使いやすい、わかりやすい Lv 4. 快適、生産性UP Lv 5. 嬉しい、楽しい、美しい Lv 6. 生きがいとか人生とか  基本的には低いレイアから競争が始まり成熟していくについれて高いレイヤに移っていくそうです。 自分たちのサービスが今どのレイアにいて、どこを目指していくべきか考える指標になりそうです。</description>
+    </item>
     
     <item>
       <title>読みました-クラシコムがお手本にする「サンマリノ共和国」は何がすごい？マンリオ・カデロ大使に教わりました</title>
