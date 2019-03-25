@@ -6,10 +6,21 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Mar 2019 19:27:59 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2019 10:22:02 +0900</lastBuildDate>
     
 	<atom:link href="https://jumperson.github.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>読みました-[IOS]KeyPathを利用してRxSwiftベースのViewModelを刷新する</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-ioskeypath%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6rxswift%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AEviewmodel%E3%82%92%E5%88%B7%E6%96%B0%E3%81%99%E3%82%8B/</link>
+      <pubDate>Mon, 25 Mar 2019 10:22:02 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-ioskeypath%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6rxswift%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AEviewmodel%E3%82%92%E5%88%B7%E6%96%B0%E3%81%99%E3%82%8B/</guid>
+      <description>[iOS]KeyPathを利用してRxSwiftベースのViewModelを刷新する - Qiita を読みました。
+KeyPathを用いたViewModelの実装の紹介がされていました。 記事の中ではcats-oss/Unio: 🔄KeyPath based Unidirectional Input / Output framework with RxSwift.というライブラリを使用していました。
+KeyPathはオブジェクトのプロパティにルールを設けたい場合に使用できるのかなという印象を受けました。 一度試してみたいです。</description>
+    </item>
     
     <item>
       <title>読みました-実装パターン9章コレクション</title>

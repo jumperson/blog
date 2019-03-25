@@ -4,21 +4,21 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta content='text/html; charset=utf-8' http-equiv='content-type' />
 
-  <title>読みました-実装パターン9章コレクション - My New Hugo Site</title>
-  <meta content='読みました-実装パターン9章コレクション - My New Hugo Site' property='title' />
-  <meta content='読みました-実装パターン9章コレクション - My New Hugo Site' property='og:title' />
+  <title>読みました-[IOS]KeyPathを利用してRxSwiftベースのViewModelを刷新する - My New Hugo Site</title>
+  <meta content='読みました-[IOS]KeyPathを利用してRxSwiftベースのViewModelを刷新する - My New Hugo Site' property='title' />
+  <meta content='読みました-[IOS]KeyPathを利用してRxSwiftベースのViewModelを刷新する - My New Hugo Site' property='og:title' />
 
 
-<meta property="og:description" content="実装パターン | ケント・ベックを借りられたので読みました。
-本書では、Javaを前提に以下の設計について記載されていました。
- クラス 状態 振る舞い メソッド コレクション フレームワーク  Java以外でも使える一般的な内容も触れられています。 クラスやメソッドなどの細かい設計判断について書かれている本は少なく、貴重だと感じました。" />
+<meta property="og:description" content="[iOS]KeyPathを利用してRxSwiftベースのViewModelを刷新する - Qiita を読みました。
+KeyPathを用いたViewModelの実装の紹介がされていました。 記事の中ではcats-oss/Unio: 🔄KeyPath based Unidirectional Input / Output framework with RxSwift.というライブラリを使用していました。
+KeyPathはオブジェクトのプロパティにルールを設けたい場合に使用できるのかなという印象を受けました。 一度試してみたいです。" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E5%AE%9F%E8%A3%85%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3/" />
+<meta property="og:url" content="https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-ioskeypath%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6rxswift%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AEviewmodel%E3%82%92%E5%88%B7%E6%96%B0%E3%81%99%E3%82%8B/" />
 
 
-<meta property="article:published_time" content="2019-03-18T19:27:59&#43;09:00"/>
+<meta property="article:published_time" content="2019-03-25T10:22:02&#43;09:00"/>
 
-<meta property="article:modified_time" content="2019-03-18T19:27:59&#43;09:00"/>
+<meta property="article:modified_time" content="2019-03-25T10:22:02&#43;09:00"/>
 
 
 
@@ -60,30 +60,22 @@ type="image/x-icon"/>
 </nav>
   
 <main class="center mv4 content-width ph3">
-  <div class="f3 fw6 heading-color heading-font post-title">読みました-実装パターン9章コレクション</div>
+  <div class="f3 fw6 heading-color heading-font post-title">読みました-[IOS]KeyPathを利用してRxSwiftベースのViewModelを刷新する</div>
   <p class="silver f6 mt1 mb4 post-meta">
-    <time>18 Mar 2019</time> 
+    <time>25 Mar 2019</time> 
      | 
     
     
-    tags: [ <a href='/blog/tags/%E6%9C%AC' class="link silver">本</a> <a href='/blog/tags/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0' class="link silver">プログラミング</a> <a href='/blog/tags/%E8%A8%AD%E8%A8%88' class="link silver">設計</a>  ]
+    tags: [ <a href='/blog/tags/ios' class="link silver">iOS</a> <a href='/blog/tags/%E8%A8%AD%E8%A8%88' class="link silver">設計</a>  ]
     
   </p>
-  <div class="lh-copy post-content"><p><a href="https://amzn.to/2F9Cv2f">実装パターン | ケント・ベック</a>を借りられたので読みました。</p>
+  <div class="lh-copy post-content"><p><a href="https://qiita.com/marty-suzuki/items/92182ee52332eb79f8a9">[iOS]KeyPathを利用してRxSwiftベースのViewModelを刷新する - Qiita</a> を読みました。</p>
 
-<p>本書では、Javaを前提に以下の設計について記載されていました。</p>
+<p>KeyPathを用いたViewModelの実装の紹介がされていました。
+記事の中では<a href="https://github.com/cats-oss/Unio">cats-oss/Unio: 🔄KeyPath based Unidirectional Input / Output framework with RxSwift.</a>というライブラリを使用していました。</p>
 
-<ul>
-<li>クラス</li>
-<li>状態</li>
-<li>振る舞い</li>
-<li>メソッド</li>
-<li>コレクション</li>
-<li>フレームワーク</li>
-</ul>
-
-<p>Java以外でも使える一般的な内容も触れられています。
-クラスやメソッドなどの細かい設計判断について書かれている本は少なく、貴重だと感じました。</p>
+<p>KeyPathはオブジェクトのプロパティにルールを設けたい場合に使用できるのかなという印象を受けました。
+一度試してみたいです。</p>
 </div>
 </main>
  
@@ -100,8 +92,8 @@ type="image/x-icon"/>
 <a id="scroll-to-top" class="f6 o-0 link br2 ph2 pv1 mb1 bg-main-color pointer" onclick="topFunction()" style="color: #fff; visibility: hidden; display: none; transition: opacity .5s, visibility .5s;" title="back to top">back to top</a>
 <br>
   <p class="mb0 mt2">
-  <a href="https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E5%AE%9F%E8%A3%85%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B39%E7%AB%A0%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/">prev post</a>
-  <a href="https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-ioskeypath%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6rxswift%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AEviewmodel%E3%82%92%E5%88%B7%E6%96%B0%E3%81%99%E3%82%8B/">next post</a>
+  <a href="https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E5%AE%9F%E8%A3%85%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3/">prev post</a>
+  
   </p>
 </div>
 
