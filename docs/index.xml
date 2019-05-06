@@ -6,10 +6,23 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 May 2019 10:52:22 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2019 08:09:47 +0900</lastBuildDate>
     
 	<atom:link href="https://jumperson.github.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>読みました-「情熱を探そう」というアドバイスはもうやめよう</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E6%83%85%E7%86%B1%E3%82%92%E6%8E%A2%E3%81%9D%E3%81%86%E3%81%A8%E3%81%84%E3%81%86%E3%82%A2%E3%83%89%E3%83%90%E3%82%A4%E3%82%B9%E3%81%AF%E3%82%82%E3%81%86%E3%82%84%E3%82%81%E3%82%88%E3%81%86/</link>
+      <pubDate>Tue, 07 May 2019 08:09:47 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E6%83%85%E7%86%B1%E3%82%92%E6%8E%A2%E3%81%9D%E3%81%86%E3%81%A8%E3%81%84%E3%81%86%E3%82%A2%E3%83%89%E3%83%90%E3%82%A4%E3%82%B9%E3%81%AF%E3%82%82%E3%81%86%E3%82%84%E3%82%81%E3%82%88%E3%81%86/</guid>
+      <description>「情熱を探そう」というアドバイスはもうやめよう – Taka Umada – Medium を読みました。
+2005年のスタンフォード大学の卒業スピーチで、スティーブ・ジョブスは「情熱を探そう」といったメッセージを伝えています。 本記事では情熱を探すのではなく、育むアプローチについて紹介されています。
+情熱を持つものを見つける人とそうでない人がいて、後者の人も育むことで前者と人と同じような満足感や成功を得られることが研究から明らかになっているようです。
+著者は「少しでも興味関心を持てることや、他人に貢献できることに取り組んで、その中から少しずつ自分の情熱を育てていきましょう。」とアドバイスしています。
+情熱を育むアプローチは参考になりました。</description>
+    </item>
     
     <item>
       <title>読みました-【コード問題集1】責務違反のRepository</title>
