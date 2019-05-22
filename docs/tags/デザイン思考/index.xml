@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>デザイン思考 on My New Hugo Site</title>
+    <link>https://jumperson.github.com/blog/tags/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E6%80%9D%E8%80%83/</link>
+    <description>Recent content in デザイン思考 on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 May 2019 17:23:52 +0900</lastBuildDate>
+    
+	<atom:link href="https://jumperson.github.com/blog/tags/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E6%80%9D%E8%80%83/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>読みました-デザイン思考とクリティカルデザインの違い</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E6%80%9D%E8%80%83%E3%81%A8%E3%82%AF%E3%83%AA%E3%83%86%E3%82%A3%E3%82%AB%E3%83%AB%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E9%81%95%E3%81%84/</link>
+      <pubDate>Wed, 22 May 2019 17:23:52 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E6%80%9D%E8%80%83%E3%81%A8%E3%82%AF%E3%83%AA%E3%83%86%E3%82%A3%E3%82%AB%E3%83%AB%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E9%81%95%E3%81%84/</guid>
+      <description>デザイン思考とクリティカルデザインの違い – 東京工業大学エンジニアリングデザインプロジェクト – Medium を読みました。
+デザイン思考とクリティカルデザインの比較をしています。 デザイン思考はユーザよりで、クリティカルデザインは作り手よりの方法論です。 クリティカルデザインよりで考える機会は少なそうですが、知っておいて損はないと感じています。</description>
+    </item>
+    
+  </channel>
+</rss>
