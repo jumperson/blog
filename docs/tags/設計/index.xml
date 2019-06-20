@@ -17,7 +17,8 @@
       <pubDate>Thu, 20 Jun 2019 10:59:20 +0900</pubDate>
       
       <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-firestore%E3%81%A7cqrs%E3%82%84%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F/</guid>
-      <description>Commnads用のデータ構造とQueries用のデータ構造を用意して、Commnadsに変更が入るとQueriesを更新する設計でした。 非正規化の設計だとこういう感じなのかもしれません。</description>
+      <description>Firestore で CQRS やってみた - Speaker Deck を読みました。
+Commnads用のデータ構造とQueries用のデータ構造を用意して、Commnadsに変更が入るとQueriesを更新する設計でした。 非正規化の設計だとこういう感じなのかもしれません。</description>
     </item>
     
     <item>
