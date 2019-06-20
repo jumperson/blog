@@ -6,10 +6,20 @@
     <description>Recent content in iOS on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Apr 2019 12:36:28 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2019 13:01:18 +0900</lastBuildDate>
     
 	<atom:link href="https://jumperson.github.com/blog/tags/ios/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>読みました-iOS13にしかないフレームワークを使用したアプリをiOS12以下でも動くようにするには</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-ios13%E3%81%AB%E3%81%97%E3%81%8B%E3%81%AA%E3%81%84%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%9F%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92ios12%E4%BB%A5%E4%B8%8B%E3%81%A7%E3%82%82%E5%8B%95%E3%81%8F%E3%82%88%E3%81%86%E3%81%AB%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF/</link>
+      <pubDate>Thu, 20 Jun 2019 13:01:18 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-ios13%E3%81%AB%E3%81%97%E3%81%8B%E3%81%AA%E3%81%84%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%9F%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92ios12%E4%BB%A5%E4%B8%8B%E3%81%A7%E3%82%82%E5%8B%95%E3%81%8F%E3%82%88%E3%81%86%E3%81%AB%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF/</guid>
+      <description>iOS 13にしかないフレームワークを使用したアプリをiOS 12以下でも動くようにするには - 24&amp;frasl;7 twenty-four seven を読みました。
+iOS13以上の環境にしか存在しないフレームワークを含んだアプリをiOS12以下の環境をサポートして起動させるためのWeak Linkという方法を紹介しています。 iOS13以上の方には機能を提供し、iOS12以下の方には提供しない場合に使用します。</description>
+    </item>
     
     <item>
       <title>読みました-クックパッドマートiOSアプリを楽しく新規開発した話【連載:クックパッドマート開発の裏側vol</title>
