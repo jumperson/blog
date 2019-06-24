@@ -6,10 +6,28 @@
     <description>Recent content in Tags on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Jun 2019 19:11:51 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2019 12:40:41 +0900</lastBuildDate>
     
 	<atom:link href="https://jumperson.github.com/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>マネジメント</title>
+      <link>https://jumperson.github.com/blog/tags/%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88/</link>
+      <pubDate>Mon, 24 Jun 2019 12:40:41 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/tags/%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>組織</title>
+      <link>https://jumperson.github.com/blog/tags/%E7%B5%84%E7%B9%94/</link>
+      <pubDate>Mon, 24 Jun 2019 12:40:41 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/tags/%E7%B5%84%E7%B9%94/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>リモート</title>
@@ -138,15 +156,6 @@
     </item>
     
     <item>
-      <title>組織</title>
-      <link>https://jumperson.github.com/blog/tags/%E7%B5%84%E7%B9%94/</link>
-      <pubDate>Wed, 27 Feb 2019 13:58:35 +0900</pubDate>
-      
-      <guid>https://jumperson.github.com/blog/tags/%E7%B5%84%E7%B9%94/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>ソフトウェアテスト</title>
       <link>https://jumperson.github.com/blog/tags/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%86%E3%82%B9%E3%83%88/</link>
       <pubDate>Wed, 27 Feb 2019 13:48:34 +0900</pubDate>
@@ -170,15 +179,6 @@
       <pubDate>Wed, 13 Feb 2019 14:13:15 +0900</pubDate>
       
       <guid>https://jumperson.github.com/blog/tags/ai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>マネジメント</title>
-      <link>https://jumperson.github.com/blog/tags/%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88/</link>
-      <pubDate>Mon, 11 Feb 2019 15:13:35 +0900</pubDate>
-      
-      <guid>https://jumperson.github.com/blog/tags/%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88/</guid>
       <description></description>
     </item>
     
