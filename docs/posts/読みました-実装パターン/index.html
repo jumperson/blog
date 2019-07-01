@@ -9,9 +9,10 @@
   <meta content='読みました-実装パターン - My New Hugo Site' property='og:title' />
 
 
-<meta property="og:description" content="実装パターン | ケント・ベックを借りられたので読みました。
+<meta property="og:description" content=" 実装パターン | ケント・ベックを借りられたので読みました。
 本書では、Javaを前提に以下の設計について記載されていました。
- クラス 状態 振る舞い メソッド コレクション フレームワーク  Java以外でも使える一般的な内容も触れられています。 クラスやメソッドなどの細かい設計判断について書かれている本は少なく、貴重だと感じました。" />
+ クラス 状態 振る舞い メソッド コレクション フレームワーク  Java以外でも使える一般的な内容も触れられています。 クラスやメソッドなどの細かい設計判断について書かれている本は少なく、貴重だと感じました。
+個人メモ  他の人が読んで理解できるコードの作成方法について書かれた本 コードを通じて自分の意図を伝える 価値  コミュニケーション シンプル 柔軟性  デザインパターンは一般にクラス間の関係のパターン p27 バリューオブジェクトについてよくまとまっている p37 明確性と直接性を犠牲にして柔軟性を実現 p59  " />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E5%AE%9F%E8%A3%85%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3/" />
 
@@ -69,7 +70,9 @@ type="image/x-icon"/>
     tags: [ <a href='/blog/tags/%E6%9C%AC' class="link silver">本</a> <a href='/blog/tags/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0' class="link silver">プログラミング</a> <a href='/blog/tags/%E8%A8%AD%E8%A8%88' class="link silver">設計</a>  ]
     
   </p>
-  <div class="lh-copy post-content"><p><a href="https://amzn.to/2F9Cv2f">実装パターン | ケント・ベック</a>を借りられたので読みました。</p>
+  <div class="lh-copy post-content">
+
+<p><a href="https://amzn.to/2F9Cv2f">実装パターン | ケント・ベック</a>を借りられたので読みました。</p>
 
 <p>本書では、Javaを前提に以下の設計について記載されていました。</p>
 
@@ -84,6 +87,23 @@ type="image/x-icon"/>
 
 <p>Java以外でも使える一般的な内容も触れられています。
 クラスやメソッドなどの細かい設計判断について書かれている本は少なく、貴重だと感じました。</p>
+
+<h1 id="個人メモ">個人メモ</h1>
+
+<ul>
+<li>他の人が読んで理解できるコードの作成方法について書かれた本</li>
+<li>コードを通じて自分の意図を伝える</li>
+<li>価値
+
+<ul>
+<li>コミュニケーション</li>
+<li>シンプル</li>
+<li>柔軟性</li>
+</ul></li>
+<li>デザインパターンは一般にクラス間の関係のパターン p27</li>
+<li>バリューオブジェクトについてよくまとまっている p37</li>
+<li>明確性と直接性を犠牲にして柔軟性を実現 p59</li>
+</ul>
 </div>
 </main>
  
@@ -92,6 +112,8 @@ type="image/x-icon"/>
 
 
 
+
+<div class="tl fixed list-pages lh-copy" id="contents-list"></div>
 
 
 
@@ -113,6 +135,10 @@ type="image/x-icon"/>
   
 
 
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.1.1/tocbot.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.1.1/tocbot.css">
+<style>.is-active-link::before { background-color: var(--secondary-color); }</style>
 
 
 
@@ -157,6 +183,17 @@ function topFunction() {
 
 
 
+
+if (document.getElementById("contents-list") !== null && document.getElementsByClassName("post-content").length !== 0) { 
+  tocbot.init({
+    
+    tocSelector: '#contents-list',
+    
+    contentSelector: '.post-content',
+    
+    headingSelector: 'h1, h2, h3',
+  });
+}
 
 
 </script>
