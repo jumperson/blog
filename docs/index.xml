@@ -6,10 +6,20 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Mar 2020 09:03:48 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2020 10:50:59 +0900</lastBuildDate>
     
 	<atom:link href="https://jumperson.github.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>読みました-Laravelで実践クリーンアーキテクチャ</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-laravel%E3%81%A7%E5%AE%9F%E8%B7%B5%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3/</link>
+      <pubDate>Fri, 27 Mar 2020 10:50:59 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-laravel%E3%81%A7%E5%AE%9F%E8%B7%B5%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3/</guid>
+      <description>Laravelで実践クリーンアーキテクチャ - Qiitaを読みました。
+LaravelやPHP関係なく、クリーンアーキテクチャについてわかりやすく解説しています。 この記事を読み、レイア分割も大事だが単方向性を大事にしていることを理解しました。</description>
+    </item>
     
     <item>
       <title>読みました-エンジニアが成果アピールで意識すると良い4つの観点</title>
