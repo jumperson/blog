@@ -6,10 +6,19 @@
     <description>Recent content in Tags on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Mar 2020 10:50:59 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2020 10:18:34 +0900</lastBuildDate>
     
 	<atom:link href="https://jumperson.github.com/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Swift</title>
+      <link>https://jumperson.github.com/blog/tags/swift/</link>
+      <pubDate>Mon, 30 Mar 2020 10:18:34 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/tags/swift/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>設計</title>
