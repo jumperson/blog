@@ -6,10 +6,20 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Mar 2020 10:18:34 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2020 14:49:33 +0900</lastBuildDate>
     
 	<atom:link href="https://jumperson.github.com/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>読みました-なぜSpotifyはOKRをやめた？アジャイル組織に最適な目標管理「Spotify Rhythm」とは</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%81%AA%E3%81%9Cspotify%E3%81%AFokr%E3%82%92%E3%82%84%E3%82%81%E3%81%9F%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%A4%E3%83%AB%E7%B5%84%E7%B9%94%E3%81%AB%E6%9C%80%E9%81%A9%E3%81%AA%E7%9B%AE%E6%A8%99%E7%AE%A1%E7%90%86spotify-rhythm%E3%81%A8%E3%81%AF/</link>
+      <pubDate>Mon, 06 Apr 2020 14:49:33 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%81%AA%E3%81%9Cspotify%E3%81%AFokr%E3%82%92%E3%82%84%E3%82%81%E3%81%9F%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%A4%E3%83%AB%E7%B5%84%E7%B9%94%E3%81%AB%E6%9C%80%E9%81%A9%E3%81%AA%E7%9B%AE%E6%A8%99%E7%AE%A1%E7%90%86spotify-rhythm%E3%81%A8%E3%81%AF/</guid>
+      <description>なぜSpotifyはOKRをやめた？アジャイル組織に最適な目標管理「Spotify Rhythm」とは｜加藤 章太朗 | RELATIONS株式会社｜note を読みました。
+SpotifyがOKRをやめて独自の目標管理システムし、そのシステムについて紹介されていました。 目標も機敏に変わるSpotifyではOKRに課題を感じ、独自のシステムに移行したそうです。</description>
+    </item>
     
     <item>
       <title>読みました-【Swift】型を使うという意味を考える(Swift4で導入されたKeyPathを通して)</title>
