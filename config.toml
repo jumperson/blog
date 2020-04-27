@@ -1,19 +1,5 @@
 baseURL = "https://jumperson.github.com/blog"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "harbor"
+theme = "er"
 publishDir = "docs"
-
-[[params.nav]]
-  identifier = "tags"
-  name = "Tags"
-  icon = "fas fa-tag fa-lg"
-  url = "tags"
-  weight = 0
-
-[[params.nav]]
-  identifier = "search"
-  name = "Search"
-  icon = "fas fa-search fa-lg"
-  url = "https://github.com/jumperson/blog/search?type=Code"
-  weight = 0
