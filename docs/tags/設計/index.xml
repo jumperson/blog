@@ -1,141 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>設計 on My New Hugo Site</title>
-    <link>https://jumperson.github.com/blog/tags/%E8%A8%AD%E8%A8%88/</link>
-    <description>Recent content in 設計 on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 27 Mar 2020 10:50:59 +0900</lastBuildDate>
-    
-	<atom:link href="https://jumperson.github.com/blog/tags/%E8%A8%AD%E8%A8%88/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>読みました-Laravelで実践クリーンアーキテクチャ</title>
-      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-laravel%E3%81%A7%E5%AE%9F%E8%B7%B5%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3/</link>
-      <pubDate>Fri, 27 Mar 2020 10:50:59 +0900</pubDate>
-      
-      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-laravel%E3%81%A7%E5%AE%9F%E8%B7%B5%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3/</guid>
-      <description>Laravelで実践クリーンアーキテクチャ - Qiitaを読みました。
-LaravelやPHP関係なく、クリーンアーキテクチャについてわかりやすく解説しています。 この記事を読み、レイア分割も大事だが単方向性を大事にしていることを理解しました。</description>
-    </item>
-    
-    <item>
-      <title>読みました-FirestoreでCQRSやってみた</title>
-      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-firestore%E3%81%A7cqrs%E3%82%84%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F/</link>
-      <pubDate>Thu, 20 Jun 2019 10:59:20 +0900</pubDate>
-      
-      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-firestore%E3%81%A7cqrs%E3%82%84%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F/</guid>
-      <description>Firestore で CQRS やってみた - Speaker Deck を読みました。
-Commnads用のデータ構造とQueries用のデータ構造を用意して、Commnadsに変更が入るとQueriesを更新する設計でした。 非正規化の設計だとこういう感じなのかもしれません。</description>
-    </item>
-    
-    <item>
-      <title>読みました-SPAにおける状態管理:関数型のアプローチも取り入れるフロントエンド系アーキテクチャの変遷</title>
-      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-spa%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E7%8A%B6%E6%85%8B%E7%AE%A1%E7%90%86%E9%96%A2%E6%95%B0%E5%9E%8B%E3%81%AE%E3%82%A2%E3%83%97%E3%83%AD%E3%83%BC%E3%83%81%E3%82%82%E5%8F%96%E3%82%8A%E5%85%A5%E3%82%8C%E3%82%8B%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%82%A8%E3%83%B3%E3%83%89%E7%B3%BB%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3%E3%81%AE%E5%A4%89%E9%81%B7/</link>
-      <pubDate>Mon, 10 Jun 2019 15:46:35 +0900</pubDate>
-      
-      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-spa%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E7%8A%B6%E6%85%8B%E7%AE%A1%E7%90%86%E9%96%A2%E6%95%B0%E5%9E%8B%E3%81%AE%E3%82%A2%E3%83%97%E3%83%AD%E3%83%BC%E3%83%81%E3%82%82%E5%8F%96%E3%82%8A%E5%85%A5%E3%82%8C%E3%82%8B%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%82%A8%E3%83%B3%E3%83%89%E7%B3%BB%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3%E3%81%AE%E5%A4%89%E9%81%B7/</guid>
-      <description>SPAにおける状態管理: 関数型のアプローチも取り入れるフロントエンド系アーキテクチャの変遷 - エンジニアHub｜若手Webエンジニアのキャリアを考える！ を読みました。
-Backbone.js, AngularJS/Vue.js, Flux, Reactと変異してきたフロントエンドのアーキテクチャについて、それぞれで、解決した課題がどういうものだったかも交えて紹介されていました。
-なぜ、そこにたどり着いたのかがわかる良い記事でした。</description>
-    </item>
-    
-    <item>
-      <title>読みました-サーバーレスを使用して最初の６ヶ月で学んだ６つのこと</title>
-      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%83%AC%E3%82%B9%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%A6%E6%9C%80%E5%88%9D%E3%81%AE%EF%BC%96%E3%83%B6%E6%9C%88%E3%81%A7%E5%AD%A6%E3%82%93%E3%81%A0%EF%BC%96%E3%81%A4%E3%81%AE%E3%81%93%E3%81%A8/</link>
-      <pubDate>Wed, 08 May 2019 15:55:24 +0900</pubDate>
-      
-      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%83%AC%E3%82%B9%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%A6%E6%9C%80%E5%88%9D%E3%81%AE%EF%BC%96%E3%83%B6%E6%9C%88%E3%81%A7%E5%AD%A6%E3%82%93%E3%81%A0%EF%BC%96%E3%81%A4%E3%81%AE%E3%81%93%E3%81%A8/</guid>
-      <description>従来のレガシーな構成と比較して、今どきのサーバレスな構成が紹介されていました。
-登場する技術は以下のとおりです。
- Lambda Node/Express Vue.js DynamoDB Serverless Framework JWT  </description>
-    </item>
-    
-    <item>
-      <title>読みました-【コード問題集1】責務違反のRepository</title>
-      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%B3%E3%83%BC%E3%83%89%E5%95%8F%E9%A1%8C%E9%9B%861%E8%B2%AC%E5%8B%99%E9%81%95%E5%8F%8D%E3%81%AErepository/</link>
-      <pubDate>Thu, 02 May 2019 10:52:22 +0900</pubDate>
-      
-      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%B3%E3%83%BC%E3%83%89%E5%95%8F%E9%A1%8C%E9%9B%861%E8%B2%AC%E5%8B%99%E9%81%95%E5%8F%8D%E3%81%AErepository/</guid>
-      <description>【コード問題集1】責務違反のRepository - little hands&amp;rsquo; labを読みました。
-DDDで登場するRepositoryの責務違反について紹介されていました。</description>
-    </item>
-    
-    <item>
-      <title>読みました-「設計なんて不要でしょ」について</title>
-      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E8%A8%AD%E8%A8%88%E3%81%AA%E3%82%93%E3%81%A6%E4%B8%8D%E8%A6%81%E3%81%A7%E3%81%97%E3%82%87%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</link>
-      <pubDate>Thu, 02 May 2019 10:20:45 +0900</pubDate>
-      
-      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E8%A8%AD%E8%A8%88%E3%81%AA%E3%82%93%E3%81%A6%E4%B8%8D%E8%A6%81%E3%81%A7%E3%81%97%E3%82%87%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</guid>
-      <description>「設計なんて不要でしょ」について - Qiitaを読みました。
-書かれていた内容に追加すると、設計はチームで共通の認識を持ってコードを書くためのものでもあるかなと思いました。</description>
-    </item>
-    
-    <item>
-      <title>読みました-[IOS]KeyPathを利用してRxSwiftベースのViewModelを刷新する</title>
-      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-ioskeypath%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6rxswift%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AEviewmodel%E3%82%92%E5%88%B7%E6%96%B0%E3%81%99%E3%82%8B/</link>
-      <pubDate>Mon, 25 Mar 2019 10:22:02 +0900</pubDate>
-      
-      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-ioskeypath%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6rxswift%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AEviewmodel%E3%82%92%E5%88%B7%E6%96%B0%E3%81%99%E3%82%8B/</guid>
-      <description>[iOS]KeyPathを利用してRxSwiftベースのViewModelを刷新する - Qiita を読みました。
-KeyPathを用いたViewModelの実装の紹介がされていました。 記事の中ではcats-oss/Unio: 🔄KeyPath based Unidirectional Input / Output framework with RxSwift.というライブラリを使用していました。
-KeyPathはオブジェクトのプロパティにルールを設けたい場合に使用できるのかなという印象を受けました。 一度試してみたいです。</description>
-    </item>
-    
-    <item>
-      <title>読みました-実装パターン</title>
-      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E5%AE%9F%E8%A3%85%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3/</link>
-      <pubDate>Mon, 18 Mar 2019 19:27:59 +0900</pubDate>
-      
-      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E5%AE%9F%E8%A3%85%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3/</guid>
-      <description>実装パターン | ケント・ベックを借りられたので読みました。
-本書では、Javaを前提に以下の設計について記載されていました。
- クラス 状態 振る舞い メソッド コレクション フレームワーク  Java以外でも使える一般的な内容も触れられています。 クラスやメソッドなどの細かい設計判断について書かれている本は少なく、貴重だと感じました。
-個人メモ  他の人が読んで理解できるコードの作成方法について書かれた本 コードを通じて自分の意図を伝える 価値  コミュニケーション シンプル 柔軟性   デザインパターンは一般にクラス間の関係のパターン p27 バリューオブジェクトについてよくまとまっている p37 明確性と直接性を犠牲にして柔軟性を実現 p59  </description>
-    </item>
-    
-    <item>
-      <title>読みました-実装パターン9章コレクション</title>
-      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E5%AE%9F%E8%A3%85%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B39%E7%AB%A0%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/</link>
-      <pubDate>Mon, 18 Mar 2019 19:27:59 +0900</pubDate>
-      
-      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E5%AE%9F%E8%A3%85%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B39%E7%AB%A0%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/</guid>
-      <description>実装パターン | ケント・ベックを借りられたので読みました。
-その中の9章コレクションにて曖昧に扱っていたコレクションの名称についてまとめられていたので引用します。
- 配列：最もシンプルだが、最も柔軟性に乏しいコレクションである。大きさは固定され、シンプルなアクセス用の構文を持ち、高速である。 Iterable：基本的なコレクションのインタフェースである。コレクションを「foreach」文の対象にするだけである。 Collection：要素の追加、削除、存在チェックを可能とする。 List：要素の順序付けられ、コレクション内の位置でアクセスできるコレクション Set：重複のないコレクション SortedSet：重複のない、順序付けられたコレクション Map：要素がキーにしたがって格納及び取得されるコレクション  命名に迷ったときはこちらの定義を参考にしたいと思います。</description>
-    </item>
-    
-    <item>
-      <title>読みました-Service LocatorとDependency InjectionパターンとDI Container</title>
-      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-service-locator%E3%81%A8dependency-injection%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E3%81%A8di-container/</link>
-      <pubDate>Wed, 27 Feb 2019 15:26:17 +0900</pubDate>
-      
-      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-service-locator%E3%81%A8dependency-injection%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E3%81%A8di-container/</guid>
-      <description>Service LocatorとDependency InjectionパターンとDI Container - nuits.jp blog を読みました。
-ServiceLocatorパターンを知らなかったため読みました。 DIと同じようなパターンでその違いがわかりやすくまとめられていました。 結論だけ書いておくとServiceLocatorよりDIの方が良いとのこと。</description>
-    </item>
-    
-    <item>
-      <title>読みました-心理的安全を担保するために、友達同士で設計について語る会を開いた</title>
-      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E5%BF%83%E7%90%86%E7%9A%84%E5%AE%89%E5%85%A8%E3%82%92%E6%8B%85%E4%BF%9D%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E5%8F%8B%E9%81%94%E5%90%8C%E5%A3%AB%E3%81%A7%E8%A8%AD%E8%A8%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%AA%9E%E3%82%8B%E4%BC%9A%E3%82%92%E9%96%8B%E3%81%84%E3%81%9F/</link>
-      <pubDate>Mon, 03 Dec 2018 16:49:31 +0900</pubDate>
-      
-      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E5%BF%83%E7%90%86%E7%9A%84%E5%AE%89%E5%85%A8%E3%82%92%E6%8B%85%E4%BF%9D%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E5%8F%8B%E9%81%94%E5%90%8C%E5%A3%AB%E3%81%A7%E8%A8%AD%E8%A8%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%AA%9E%E3%82%8B%E4%BC%9A%E3%82%92%E9%96%8B%E3%81%84%E3%81%9F/</guid>
-      <description>心理的安全を担保するために、友達同士で設計について語る会を開いた - 📦田中、仙台に生きる📦 を読みました。
-炎上しそうな話題は小規模に、心理的安全性を担保するように1度やってみるのは良いなと思いました。</description>
-    </item>
-    
-    <item>
-      <title>読みました-エンジニアリングマネージャーとソフトウェア設計者に共通するスキルを考えてみた</title>
-      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%9E%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%BC%E3%81%A8%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E8%A8%AD%E8%A8%88%E8%80%85%E3%81%AB%E5%85%B1%E9%80%9A%E3%81%99%E3%82%8B%E3%82%B9%E3%82%AD%E3%83%AB%E3%82%92%E8%80%83%E3%81%88%E3%81%A6%E3%81%BF%E3%81%9F/</link>
-      <pubDate>Mon, 03 Dec 2018 16:30:22 +0900</pubDate>
-      
-      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%9E%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%BC%E3%81%A8%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E8%A8%AD%E8%A8%88%E8%80%85%E3%81%AB%E5%85%B1%E9%80%9A%E3%81%99%E3%82%8B%E3%82%B9%E3%82%AD%E3%83%AB%E3%82%92%E8%80%83%E3%81%88%E3%81%A6%E3%81%BF%E3%81%9F/</guid>
-      <description>エンジニアリングマネージャーとソフトウェア設計者に共通するスキルを考えてみた - Mercari Engineering Blog を読みました。
- エンジニアリングマネージャーとソフトウェア設計者には「緊張関係にある複数の要素に対して、なんとかバランスを取る」という共通の構造がある これを行うために重要な要素は「視点」「フォーカス」「説明力」の3つ  所感 共通するスキルは多くの人と関わって仕事をする上で必要なスキルで、エンジニアリングマネージャーとソフトウェア設計者に限らないと感じました。</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>設計 on My New Hugo Site</title>
+		<link>https://jumperson.github.com/blog/tags/%E8%A8%AD%E8%A8%88/</link>
+		<description>Recent content in 設計 on My New Hugo Site</description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/設計)</managingEditor>
+    	
+  		<lastBuildDate>Fri, 27 Mar 2020 10:50:59 +0900</lastBuildDate>
+		
+		<atom:link href="https://jumperson.github.com/blog/tags/%E8%A8%AD%E8%A8%88/" rel="self" type="application/rss+xml" />
+		
+	</channel>
 </rss>

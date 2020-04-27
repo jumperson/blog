@@ -1,26 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>TDD on My New Hugo Site</title>
-    <link>https://jumperson.github.com/blog/tags/tdd/</link>
-    <description>Recent content in TDD on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 20 May 2019 15:49:23 +0900</lastBuildDate>
-    
-	<atom:link href="https://jumperson.github.com/blog/tags/tdd/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>読みました-これであなたもテスト駆動開発マスター！？和田卓人さんがテスト駆動開発問題を解答コード使いながら解説します～現在時刻が関わるテストから、テスト容易性設計を学ぶ</title>
-      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%81%93%E3%82%8C%E3%81%A7%E3%81%82%E3%81%AA%E3%81%9F%E3%82%82%E3%83%86%E3%82%B9%E3%83%88%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E5%92%8C%E7%94%B0%E5%8D%93%E4%BA%BA%E3%81%95%E3%82%93%E3%81%8C%E3%83%86%E3%82%B9%E3%83%88%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA%E5%95%8F%E9%A1%8C%E3%82%92%E8%A7%A3%E7%AD%94%E3%82%B3%E3%83%BC%E3%83%89%E4%BD%BF%E3%81%84%E3%81%AA%E3%81%8C%E3%82%89%E8%A7%A3%E8%AA%AC%E3%81%97%E3%81%BE%E3%81%99/</link>
-      <pubDate>Mon, 20 May 2019 15:49:23 +0900</pubDate>
-      
-      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%81%93%E3%82%8C%E3%81%A7%E3%81%82%E3%81%AA%E3%81%9F%E3%82%82%E3%83%86%E3%82%B9%E3%83%88%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E5%92%8C%E7%94%B0%E5%8D%93%E4%BA%BA%E3%81%95%E3%82%93%E3%81%8C%E3%83%86%E3%82%B9%E3%83%88%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA%E5%95%8F%E9%A1%8C%E3%82%92%E8%A7%A3%E7%AD%94%E3%82%B3%E3%83%BC%E3%83%89%E4%BD%BF%E3%81%84%E3%81%AA%E3%81%8C%E3%82%89%E8%A7%A3%E8%AA%AC%E3%81%97%E3%81%BE%E3%81%99/</guid>
-      <description>随分前にはなりますが「これであなたもテスト駆動開発マスター！？和田卓人さんがテスト駆動開発問題を解答コード使いながら解説します～現在時刻が関わるテストから、テスト容易性設計を学ぶ」を読みました。 CodeIQというサービスの記事で、サービスがなくなり参照できなくなっていました。
-Web Archiveには残っていたので参照を貼っておきます。 これであなたもテスト駆動開発マスター！？和田卓人さんがテスト駆動開発問題を解答コード使いながら解説します～現在時刻が関わるテストから、テスト容易性設計を学ぶ #tdd｜CodeIQ MAGAZINE
-内部で現在日時などを参照しているメソッドに対してTDDとしてどういうアプローチを取るのが良いのか深い考察がされている良い記事でした。</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>TDD on My New Hugo Site</title>
+		<link>https://jumperson.github.com/blog/tags/tdd/</link>
+		<description>Recent content in TDD on My New Hugo Site</description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/tdd)</managingEditor>
+    	
+  		<lastBuildDate>Mon, 20 May 2019 15:49:23 +0900</lastBuildDate>
+		
+		<atom:link href="https://jumperson.github.com/blog/tags/tdd/" rel="self" type="application/rss+xml" />
+		
+	</channel>
 </rss>

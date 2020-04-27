@@ -1,158 +1,108 @@
-<!doctype html>
-<html lang="en">
-<head><meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<meta content='text/html; charset=utf-8' http-equiv='content-type' />
-
-  <title>読みました-これであなたもテスト駆動開発マスター！？和田卓人さんがテスト駆動開発問題を解答コード使いながら解説します～現在時刻が関わるテストから、テスト容易性設計を学ぶ - My New Hugo Site</title>
-  <meta content='読みました-これであなたもテスト駆動開発マスター！？和田卓人さんがテスト駆動開発問題を解答コード使いながら解説します～現在時刻が関わるテストから、テスト容易性設計を学ぶ - My New Hugo Site' property='title' />
-  <meta content='読みました-これであなたもテスト駆動開発マスター！？和田卓人さんがテスト駆動開発問題を解答コード使いながら解説します～現在時刻が関わるテストから、テスト容易性設計を学ぶ - My New Hugo Site' property='og:title' />
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8" />
+<title>読みました-これであなたもテスト駆動開発マスター！？和田卓人さんがテスト駆動開発問題を解答コード使いながら解説します～現在時刻が関わるテストから、テスト容易性設計を学ぶ</title>
 
 
-<meta property="og:description" content="随分前にはなりますが「これであなたもテスト駆動開発マスター！？和田卓人さんがテスト駆動開発問題を解答コード使いながら解説します～現在時刻が関わるテストから、テスト容易性設計を学ぶ」を読みました。 CodeIQというサービスの記事で、サービスがなくなり参照できなくなっていました。
-Web Archiveには残っていたので参照を貼っておきます。 これであなたもテスト駆動開発マスター！？和田卓人さんがテスト駆動開発問題を解答コード使いながら解説します～現在時刻が関わるテストから、テスト容易性設計を学ぶ #tdd｜CodeIQ MAGAZINE
-内部で現在日時などを参照しているメソッドに対してTDDとしてどういうアプローチを取るのが良いのか深い考察がされている良い記事でした。" />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%81%93%E3%82%8C%E3%81%A7%E3%81%82%E3%81%AA%E3%81%9F%E3%82%82%E3%83%86%E3%82%B9%E3%83%88%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E5%92%8C%E7%94%B0%E5%8D%93%E4%BA%BA%E3%81%95%E3%82%93%E3%81%8C%E3%83%86%E3%82%B9%E3%83%88%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA%E5%95%8F%E9%A1%8C%E3%82%92%E8%A7%A3%E7%AD%94%E3%82%B3%E3%83%BC%E3%83%89%E4%BD%BF%E3%81%84%E3%81%AA%E3%81%8C%E3%82%89%E8%A7%A3%E8%AA%AC%E3%81%97%E3%81%BE%E3%81%99/" />
+  
 
 
-<meta property="article:published_time" content="2019-05-20T15:49:23&#43;09:00"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="alternate" type="application/rss+xml" href="https://jumperson.github.com/blog/index.xml" title="My New Hugo Site">
 
-<meta property="article:modified_time" content="2019-05-20T15:49:23&#43;09:00"/>
+<link id="dark-mode-theme" rel="stylesheet" href="https://jumperson.github.com/blog/css/dark.css" />
+<link rel="stylesheet" href="https://jumperson.github.com/blog/fontawesome/css/all.min.css" />
 
-
-
-
-
-
-
-
+<script src="https://jumperson.github.com/blog/js/bundle.js"></script>
+<script src="https://jumperson.github.com/blog/js/instantpage.js" type="module" defer></script>
 <meta name="generator" content="Hugo 0.69.2" />
-
-<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600" rel="stylesheet">
-<style type="text/css">/*https://coolors.co/afd5aa-f0f2ef-a69f98-3d3d3d-8c6057*/
-:root {
-  --main-color: #8C6056; 
-  --secondary-color: #AFD5AA;
-  --logo-text-color: #fff;
-  --body-text-color: #3d3d3d;
-  --heading-text-color: #383838;
-  --background-color: #fff;
-}</style>
-<link href='/blog/css/tachyons.min.css' rel="stylesheet">
-<link href='/blog/css/styles.css' rel="stylesheet">
+  </head>
+  <body>
+    
+  
 
 
-<link rel="icon" 
- 
-  href='/blog/favicon.ico'
 
-type="image/x-icon"/>
 
-<link href='/blog/feed.xml' rel="alternate" type="application/atom+xml" title="My New Hugo Site" />
-</head>
-<body class="global-font">
-  <nav class=" justify-between border-box pa3 pl3-l pr2-l mt1 mt0-ns" id="navbar">
-  <div class="flex">
-    <a class="f4 fw6 ttu no-underline dim bg-main-color pv1 ph2 br2" id="site-title" href='/blog/' title="Home">My New Hugo Site</a>
+  <header>
+    <nav class="navbar">
+  <div class="nav">
+    
+
+    <ul class="nav-links">
+      
+        
+          <li><a href="/blog/tags" name="Tags"><i class="fas fa-tag fa-lg"></i></a></li>
+        
+      
+        
+          <li><a href="https://github.com/jumperson/blog/search?type=Code" name="Search"><i class="fas fa-search fa-lg"></i></a></li>
+        
+      
+    </ul>
   </div>
-  
 </nav>
-  
-<main class="center mv4 content-width ph3">
-  <div class="f3 fw6 heading-color heading-font post-title">読みました-これであなたもテスト駆動開発マスター！？和田卓人さんがテスト駆動開発問題を解答コード使いながら解説します～現在時刻が関わるテストから、テスト容易性設計を学ぶ</div>
-  <p class="silver f6 mt1 mb4 post-meta">
-    <time>20 May 2019</time> 
-     | 
+
+    <div class="intro-header">
+      <div class="container">
+        <div class="posts-heading">
+          
+            <h1>読みました-これであなたもテスト駆動開発マスター！？和田卓人さんがテスト駆動開発問題を解答コード使いながら解説します～現在時刻が関わるテストから、テスト容易性設計を学ぶ</h1>
+          
+          
+        </div>
+      </div>
+    </div>
+  </header>
+
+
     
-    
-    tags: [ <a href='/blog/tags/tdd' class="link silver">TDD</a>  ]
-    
-  </p>
-  <div class="lh-copy post-content"><p>随分前にはなりますが「これであなたもテスト駆動開発マスター！？和田卓人さんがテスト駆動開発問題を解答コード使いながら解説します～現在時刻が関わるテストから、テスト容易性設計を学ぶ」を読みました。
+  <div class="container" role="main">
+    <article class="article" class="blog-post">
+      
+    <p>随分前にはなりますが「これであなたもテスト駆動開発マスター！？和田卓人さんがテスト駆動開発問題を解答コード使いながら解説します～現在時刻が関わるテストから、テスト容易性設計を学ぶ」を読みました。
 CodeIQというサービスの記事で、サービスがなくなり参照できなくなっていました。</p>
 <p>Web Archiveには残っていたので参照を貼っておきます。
 <a href="https://web.archive.org/web/20140214000853/https://codeiq.jp/magazine/2013/11/1475/">これであなたもテスト駆動開発マスター！？和田卓人さんがテスト駆動開発問題を解答コード使いながら解説します～現在時刻が関わるテストから、テスト容易性設計を学ぶ #tdd｜CodeIQ MAGAZINE</a></p>
 <p>内部で現在日時などを参照しているメソッドに対してTDDとしてどういうアプローチを取るのが良いのか深い考察がされている良い記事でした。</p>
-</div>
-</main>
- 
 
 
 
+      
+        <div class="blog-tags">
+          
+            <a href="https://jumperson.github.com/blog//tags/tdd/">TDD</a>&nbsp;
+          
+        </div>
+      
+    </article>
+    
+    
+  </div>
 
+    <footer>
+  <div class="container">
+    <p class="credits copyright">
+      <a href="https://jumperson.github.com/blog/about"></a>
+      &nbsp;&copy;
+      2020
 
+      
+        &nbsp;/&nbsp;
+        <a href="https://jumperson.github.com/blog/">My New Hugo Site</a>
+      
 
+      &nbsp;&ndash;&nbsp;
+      <i class="fas fa-moon" id="dark-mode-toggle"></i>
 
-
-<div class="pagination tc tr-l db fixed-l bottom-2-l right-2-l mb3 mb0-l">
-  
-<a id="scroll-to-top" class="f6 o-0 link br2 ph2 pv1 mb1 bg-main-color pointer" onclick="topFunction()" style="color: #fff; visibility: hidden; display: none; transition: opacity .5s, visibility .5s;" title="back to top">back to top</a>
-<br>
-  <p class="mb0 mt2">
-  <a href="https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%83%AC%E3%82%B9%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%A6%E6%9C%80%E5%88%9D%E3%81%AE%EF%BC%96%E3%83%B6%E6%9C%88%E3%81%A7%E5%AD%A6%E3%82%93%E3%81%A0%EF%BC%96%E3%81%A4%E3%81%AE%E3%81%93%E3%81%A8/">prev post</a>
-  <a href="https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E6%80%9D%E8%80%83%E3%81%A8%E3%82%AF%E3%83%AA%E3%83%86%E3%82%A3%E3%82%AB%E3%83%AB%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E9%81%95%E3%81%84/">next post</a>
-  </p>
-</div>
-
-  <footer class="content-width mt0 mt5-l mb4 f6 center ph3 gray tc tl-l">
-  <hr class="dn db-l ml0-l gray w3"><br>
-  Powered by <a href="https://gohugo.io/" target="_blank" class="link gray dim">Hugo</a>, based on the <a href="https://github.com/lingxz/er" target="_blank" class="link gray dim">Er</a> theme. <br>
-  
+      <p class="credits theme-by">
+        Powered By <a href="https://gohugo.io">Hugo</a>&nbsp;Theme <a href="https://github.com/matsuyoshi30/harbor">Harbor</a>
+      </p>
+    </p>
+  </div>
 </footer>
-  
 
-
-
-
-
-
-<script type="text/javascript">
-var prevScrollpos = window.pageYOffset;
-window.onscroll = function() {
-  var currentScrollPos = window.pageYOffset;
-
-  
-  if (document.getElementById("tag-cloud") !== null) { 
-    if (prevScrollpos > currentScrollPos) { 
-      document.getElementById("tag-cloud").style.visibility = "visible";
-      document.getElementById("tag-cloud").style.opacity = "1";
-    } else {
-      document.getElementById("tag-cloud").style.visibility = "hidden";
-      document.getElementById("tag-cloud").style.opacity = "0";
-    }
-  }
-  
-
-  
-  if (document.body.scrollTop > 1000 || document.documentElement.scrollTop > 1000) {
-      document.getElementById("scroll-to-top").style.display = "inline";
-      document.getElementById("scroll-to-top").style.visibility = "visible";
-      document.getElementById("scroll-to-top").style.opacity = "1";
-  } else {
-      document.getElementById("scroll-to-top").style.visibility = "hidden";
-      document.getElementById("scroll-to-top").style.opacity = "0";
-  }
-  
-  prevScrollpos = currentScrollPos;
-}
-
-
-function topFunction() {
-  document.body.scrollTop = 0; 
-  document.documentElement.scrollTop = 0; 
-}
-
-
-
-
-
-
-
-</script>
-
-
-
-
-</body>
+  </body>
 </html>

@@ -1,36 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>チーム on My New Hugo Site</title>
-    <link>https://jumperson.github.com/blog/tags/%E3%83%81%E3%83%BC%E3%83%A0/</link>
-    <description>Recent content in チーム on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 11 Sep 2019 18:06:46 +0900</lastBuildDate>
-    
-	<atom:link href="https://jumperson.github.com/blog/tags/%E3%83%81%E3%83%BC%E3%83%A0/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>読みました-本田宗一郎と豊田章男に学ぶ「チームの作り方」</title>
-      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E6%9C%AC%E7%94%B0%E5%AE%97%E4%B8%80%E9%83%8E%E3%81%A8%E8%B1%8A%E7%94%B0%E7%AB%A0%E7%94%B7%E3%81%AB%E5%AD%A6%E3%81%B6%E3%83%81%E3%83%BC%E3%83%A0%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9/</link>
-      <pubDate>Wed, 11 Sep 2019 18:06:46 +0900</pubDate>
-      
-      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E6%9C%AC%E7%94%B0%E5%AE%97%E4%B8%80%E9%83%8E%E3%81%A8%E8%B1%8A%E7%94%B0%E7%AB%A0%E7%94%B7%E3%81%AB%E5%AD%A6%E3%81%B6%E3%83%81%E3%83%BC%E3%83%A0%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9/</guid>
-      <description>本田宗一郎と豊田章男に学ぶ「チームの作り方」（サライ.jp） - Yahoo!ニュース を読みました。
-どちらも自分とは異質の人を側近に迎えて成功しているようです。</description>
-    </item>
-    
-    <item>
-      <title>読みました-サービス開発でぶつかってきた壁と、そのとき助けてくれた本</title>
-      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E7%99%BA%E3%81%A7%E3%81%B6%E3%81%A4%E3%81%8B%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F%E5%A3%81%E3%81%A8%E3%81%9D%E3%81%AE%E3%81%A8%E3%81%8D%E5%8A%A9%E3%81%91%E3%81%A6%E3%81%8F%E3%82%8C%E3%81%9F%E6%9C%AC/</link>
-      <pubDate>Wed, 24 Jul 2019 13:27:18 +0900</pubDate>
-      
-      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E7%99%BA%E3%81%A7%E3%81%B6%E3%81%A4%E3%81%8B%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F%E5%A3%81%E3%81%A8%E3%81%9D%E3%81%AE%E3%81%A8%E3%81%8D%E5%8A%A9%E3%81%91%E3%81%A6%E3%81%8F%E3%82%8C%E3%81%9F%E6%9C%AC/</guid>
-      <description>サービス開発でぶつかってきた壁と、そのとき助けてくれた本 - クックパッド開発者ブログ を読みました。
-サービス開発で現れる3つの壁に対して参考になる書籍を紹介していました。 また、本をチーム活動に取り入れていく方法についても書かれていました。
- 「ユーザー課題の見極め難しい！」の壁  ジョブ理論   「戦略づくり難しい！」の壁  ストーリーとしての競争戦略   「良いソリューションアイデアが出ない！」の壁  SPRINT 最速仕事術―あらゆる仕事がうまくいく最も合理的な方法 直感と論理をつなぐ思考法 VISION DRIVEN    </description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>チーム on My New Hugo Site</title>
+		<link>https://jumperson.github.com/blog/tags/%E3%83%81%E3%83%BC%E3%83%A0/</link>
+		<description>Recent content in チーム on My New Hugo Site</description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/チーム)</managingEditor>
+    	
+  		<lastBuildDate>Wed, 11 Sep 2019 18:06:46 +0900</lastBuildDate>
+		
+		<atom:link href="https://jumperson.github.com/blog/tags/%E3%83%81%E3%83%BC%E3%83%A0/" rel="self" type="application/rss+xml" />
+		
+	</channel>
 </rss>

@@ -1,35 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>CTO on My New Hugo Site</title>
-    <link>https://jumperson.github.com/blog/tags/cto/</link>
-    <description>Recent content in CTO on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 10 Apr 2019 12:13:19 +0900</lastBuildDate>
-    
-	<atom:link href="https://jumperson.github.com/blog/tags/cto/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>読みました-CTOにお会いしてきたアイスタイルCTO竹澤有貴さん「自分が示すことで納得感を持ってもらう」</title>
-      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-cto%E3%81%AB%E3%81%8A%E4%BC%9A%E3%81%84%E3%81%97%E3%81%A6%E3%81%8D%E3%81%9F%E3%82%A2%E3%82%A4%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%ABcto%E7%AB%B9%E6%BE%A4%E6%9C%89%E8%B2%B4%E3%81%95%E3%82%93%E8%87%AA%E5%88%86%E3%81%8C%E7%A4%BA%E3%81%99%E3%81%93%E3%81%A8%E3%81%A7%E7%B4%8D%E5%BE%97%E6%84%9F%E3%82%92%E6%8C%81%E3%81%A3%E3%81%A6%E3%82%82%E3%82%89%E3%81%86/</link>
-      <pubDate>Wed, 10 Apr 2019 12:13:19 +0900</pubDate>
-      
-      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-cto%E3%81%AB%E3%81%8A%E4%BC%9A%E3%81%84%E3%81%97%E3%81%A6%E3%81%8D%E3%81%9F%E3%82%A2%E3%82%A4%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%ABcto%E7%AB%B9%E6%BE%A4%E6%9C%89%E8%B2%B4%E3%81%95%E3%82%93%E8%87%AA%E5%88%86%E3%81%8C%E7%A4%BA%E3%81%99%E3%81%93%E3%81%A8%E3%81%A7%E7%B4%8D%E5%BE%97%E6%84%9F%E3%82%92%E6%8C%81%E3%81%A3%E3%81%A6%E3%82%82%E3%82%89%E3%81%86/</guid>
-      <description>CTOにお会いしてきた アイスタイルCTO竹澤有貴さん「自分が示すことで納得感を持ってもらう」｜SOLMU｜noteを読みました。
-アイスタイルCTOのインタビュー記事です。 メンバーに取ってもらいたい行動を自分で示すのは大事ですね。</description>
-    </item>
-    
-    <item>
-      <title>読みました-スポーツを通じて、ひとつの笑顔を世界へ！CTOが追い続けるエンジニアライフ</title>
-      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%92%E9%80%9A%E3%81%98%E3%81%A6%E3%81%B2%E3%81%A8%E3%81%A4%E3%81%AE%E7%AC%91%E9%A1%94%E3%82%92%E4%B8%96%E7%95%8C%E3%81%B8cto%E3%81%8C%E8%BF%BD%E3%81%84%E7%B6%9A%E3%81%91%E3%82%8B%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%A9%E3%82%A4%E3%83%95/</link>
-      <pubDate>Wed, 13 Feb 2019 19:20:42 +0900</pubDate>
-      
-      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%92%E9%80%9A%E3%81%98%E3%81%A6%E3%81%B2%E3%81%A8%E3%81%A4%E3%81%AE%E7%AC%91%E9%A1%94%E3%82%92%E4%B8%96%E7%95%8C%E3%81%B8cto%E3%81%8C%E8%BF%BD%E3%81%84%E7%B6%9A%E3%81%91%E3%82%8B%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%A9%E3%82%A4%E3%83%95/</guid>
-      <description>スポーツを通じて、ひとつの笑顔を世界へ！CTOが追い続けるエンジニアライフ｜株式会社ookami を読みました。
-ookamiのCTOの方のインタビューです。 CTOとして「繋げる」とこを意識しているとのことです。</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>CTO on My New Hugo Site</title>
+		<link>https://jumperson.github.com/blog/tags/cto/</link>
+		<description>Recent content in CTO on My New Hugo Site</description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/tags/cto)</managingEditor>
+    	
+  		<lastBuildDate>Wed, 10 Apr 2019 12:13:19 +0900</lastBuildDate>
+		
+		<atom:link href="https://jumperson.github.com/blog/tags/cto/" rel="self" type="application/rss+xml" />
+		
+	</channel>
 </rss>
