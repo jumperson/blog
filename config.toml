@@ -3,3 +3,10 @@ languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "harbor"
 publishDir = "docs"
+
+[[params.nav]]
+  identifier = "tags"
+  name = "Tags"
+  icon = "fas fa-tag fa-lg"
+  url = "tags"
+  weight = 0
