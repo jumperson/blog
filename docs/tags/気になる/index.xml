@@ -1,17 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>気になる on My New Hugo Site</title>
-		<link>https://jumperson.github.com/blog/tags/%E6%B0%97%E3%81%AB%E3%81%AA%E3%82%8B/</link>
-		<description>Recent content in 気になる on My New Hugo Site</description>
-		<generator>Hugo -- gohugo.io</generator>
-		
-  		<language>en-us</language>
-		
-		<managingEditor>Page(/tags/気になる)</managingEditor>
-    	
-  		<lastBuildDate>Fri, 05 Apr 2019 10:33:11 +0900</lastBuildDate>
-		
-		<atom:link href="https://jumperson.github.com/blog/tags/%E6%B0%97%E3%81%AB%E3%81%AA%E3%82%8B/" rel="self" type="application/rss+xml" />
-		
-	</channel>
+  <channel>
+    <title>気になる on My New Hugo Site</title>
+    <link>https://jumperson.github.com/blog/tags/%E6%B0%97%E3%81%AB%E3%81%AA%E3%82%8B/</link>
+    <description>Recent content in 気になる on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Apr 2019 10:33:11 +0900</lastBuildDate>
+    
+	<atom:link href="https://jumperson.github.com/blog/tags/%E6%B0%97%E3%81%AB%E3%81%AA%E3%82%8B/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>気になる-本</title>
+      <link>https://jumperson.github.com/blog/posts/%E6%B0%97%E3%81%AB%E3%81%AA%E3%82%8B-%E6%9C%AC/</link>
+      <pubDate>Fri, 05 Apr 2019 10:33:11 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E6%B0%97%E3%81%AB%E3%81%AA%E3%82%8B-%E6%9C%AC/</guid>
+      <description>世界史とつなげて学ぶ 中国全史 | 岡本 隆司 |本 | 通販 | Amazon  池袋の本屋さんで見つけた 歴史の本   超約 ヨーロッパの歴史 | 福井 憲彦, John Hirst, ジョン ハースト, 倉嶋 雅人 |本 | 通販 | Amazon  池袋の本屋さんで見つけた 読みやすそうだった   明治維新の正体 新書版 | 鈴木 荘一 |本 | 通販 | Amazon  池袋の本屋さんで見つけた 読みやすそうだった   世界史とつなげて学ぶ 中国全史 | 岡本 隆司 |本 | 通販 | Amazon  池袋の本屋さんで見つけた 読みやすそうだった   イノベーション・オブ・ライフ　ハーバード・ビジネススクールを巣立つ君たちへ | Clayton M.</description>
+    </item>
+    
+  </channel>
 </rss>

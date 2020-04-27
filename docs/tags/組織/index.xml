@@ -1,17 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>組織 on My New Hugo Site</title>
-		<link>https://jumperson.github.com/blog/tags/%E7%B5%84%E7%B9%94/</link>
-		<description>Recent content in 組織 on My New Hugo Site</description>
-		<generator>Hugo -- gohugo.io</generator>
-		
-  		<language>en-us</language>
-		
-		<managingEditor>Page(/tags/組織)</managingEditor>
-    	
-  		<lastBuildDate>Mon, 06 Apr 2020 14:49:33 +0900</lastBuildDate>
-		
-		<atom:link href="https://jumperson.github.com/blog/tags/%E7%B5%84%E7%B9%94/" rel="self" type="application/rss+xml" />
-		
-	</channel>
+  <channel>
+    <title>組織 on My New Hugo Site</title>
+    <link>https://jumperson.github.com/blog/tags/%E7%B5%84%E7%B9%94/</link>
+    <description>Recent content in 組織 on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Apr 2020 14:49:33 +0900</lastBuildDate>
+    
+	<atom:link href="https://jumperson.github.com/blog/tags/%E7%B5%84%E7%B9%94/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>読みました-なぜSpotifyはOKRをやめた？アジャイル組織に最適な目標管理「Spotify Rhythm」とは</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%81%AA%E3%81%9Cspotify%E3%81%AFokr%E3%82%92%E3%82%84%E3%82%81%E3%81%9F%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%A4%E3%83%AB%E7%B5%84%E7%B9%94%E3%81%AB%E6%9C%80%E9%81%A9%E3%81%AA%E7%9B%AE%E6%A8%99%E7%AE%A1%E7%90%86spotify-rhythm%E3%81%A8%E3%81%AF/</link>
+      <pubDate>Mon, 06 Apr 2020 14:49:33 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%81%AA%E3%81%9Cspotify%E3%81%AFokr%E3%82%92%E3%82%84%E3%82%81%E3%81%9F%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%A4%E3%83%AB%E7%B5%84%E7%B9%94%E3%81%AB%E6%9C%80%E9%81%A9%E3%81%AA%E7%9B%AE%E6%A8%99%E7%AE%A1%E7%90%86spotify-rhythm%E3%81%A8%E3%81%AF/</guid>
+      <description>なぜSpotifyはOKRをやめた？アジャイル組織に最適な目標管理「Spotify Rhythm」とは｜加藤 章太朗 | RELATIONS株式会社｜note を読みました。
+SpotifyがOKRをやめて独自の目標管理システムし、そのシステムについて紹介されていました。 目標も機敏に変わるSpotifyではOKRに課題を感じ、独自のシステムに移行したそうです。</description>
+    </item>
+    
+    <item>
+      <title>読みました-父親に聞いた管理職として「ダメなチームをデキるチームにする必勝パターン」</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E7%88%B6%E8%A6%AA%E3%81%AB%E8%81%9E%E3%81%84%E3%81%9F%E7%AE%A1%E7%90%86%E8%81%B7%E3%81%A8%E3%81%97%E3%81%A6%E3%83%80%E3%83%A1%E3%81%AA%E3%83%81%E3%83%BC%E3%83%A0%E3%82%92%E3%83%87%E3%82%AD%E3%82%8B%E3%83%81%E3%83%BC%E3%83%A0%E3%81%AB%E3%81%99%E3%82%8B%E5%BF%85%E5%8B%9D%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3/</link>
+      <pubDate>Mon, 24 Jun 2019 12:40:41 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E7%88%B6%E8%A6%AA%E3%81%AB%E8%81%9E%E3%81%84%E3%81%9F%E7%AE%A1%E7%90%86%E8%81%B7%E3%81%A8%E3%81%97%E3%81%A6%E3%83%80%E3%83%A1%E3%81%AA%E3%83%81%E3%83%BC%E3%83%A0%E3%82%92%E3%83%87%E3%82%AD%E3%82%8B%E3%83%81%E3%83%BC%E3%83%A0%E3%81%AB%E3%81%99%E3%82%8B%E5%BF%85%E5%8B%9D%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3/</guid>
+      <description>父親に聞いた管理職として「ダメなチームをデキるチームにする必勝パターン」 - komagataのブログ を読みました。
+紹介されていた必勝パターンはこんな感じです。
+ 中心人物の協力を取り付ける 中心人物を司会として改善会議を開く 一番出来ないとされている人を全力でフォロー 小さな成果もべた褒めする  このパターンで成果が出るようにしても、上が出来ない人に変わると成果が出なくなるようです。 上が変わっても成果が出るようにするにはもう一歩進んだ方法が必要なのかもしれません。</description>
+    </item>
+    
+    <item>
+      <title>読みました-組織をファーストではなく、セカンドで合わせる。</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E7%B5%84%E7%B9%94%E3%82%92%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E3%82%BB%E3%82%AB%E3%83%B3%E3%83%89%E3%81%A7%E5%90%88%E3%82%8F%E3%81%9B%E3%82%8B/</link>
+      <pubDate>Wed, 27 Feb 2019 13:58:35 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E7%B5%84%E7%B9%94%E3%82%92%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E3%82%BB%E3%82%AB%E3%83%B3%E3%83%89%E3%81%A7%E5%90%88%E3%82%8F%E3%81%9B%E3%82%8B/</guid>
+      <description>組織をファーストではなく、セカンドで合わせる。｜papanda｜note を読みました。
+ちょうど、チームの理念をまとめる必要があるなと感じていたタイミングだったので、刺さりました。 本記事には組織ファーストは効率性があり、組織セカンドは多様性があると書かれており、その通りだと感じました。
+変化が多い今の時代では多様性の方が重視されることが多く、組織セカンドくらいがちょうどよいと感じました。
+ただ、組織セカンドだからといってチームの理念は不要にはならず、リーダーはチームが良くなるための理念を用意すべきだという考えは変わりませんでした。</description>
+    </item>
+    
+    <item>
+      <title>読みました-「ティール組織」日本における事例の可能性〜ソニックガーデンはティール組織だったのか？</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%83%86%E3%82%A3%E3%83%BC%E3%83%AB%E7%B5%84%E7%B9%94%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%BA%8B%E4%BE%8B%E3%81%AE%E5%8F%AF%E8%83%BD%E6%80%A7%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%E3%81%AF%E3%83%86%E3%82%A3%E3%83%BC%E3%83%AB%E7%B5%84%E7%B9%94%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%8B/</link>
+      <pubDate>Tue, 12 Feb 2019 12:57:33 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%83%86%E3%82%A3%E3%83%BC%E3%83%AB%E7%B5%84%E7%B9%94%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%BA%8B%E4%BE%8B%E3%81%AE%E5%8F%AF%E8%83%BD%E6%80%A7%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%E3%81%AF%E3%83%86%E3%82%A3%E3%83%BC%E3%83%AB%E7%B5%84%E7%B9%94%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%8B/</guid>
+      <description>「ティール組織」日本における事例の可能性〜ソニックガーデンはティール組織だったのか？ | Social Change! を読みました。
+ティール組織の簡単な紹介と、ソニックガーデンさんのティール適応の度合いについて書かれている記事です。 ティール組織には3つの特徴「セルフマネジメント」「全体性」「常に進化する目的」があり、それらに対して具体的に取り組んでいる内容について書かれていました。
+具体的な取り組みの詳細については別の記事にまとめられていました。
+ セルフマネジメント：セルフマネジメントのレベルと欠かせないスキル 〜 自己組織化されたチームを作るためには | Social Change! 全体性：個人評価をなくした会社の1on1面談の仕方「すりあわせ」 | Social Change! 常に進化する目的：売上目標をなくしてもうまくいく？ 〜 案件よりも人を優先する経営哲学 | Social Change!  </description>
+    </item>
+    
+    <item>
+      <title>読みました-チームファーストがプロダクトを殺す。</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%83%81%E3%83%BC%E3%83%A0%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%81%8C%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%82%92%E6%AE%BA%E3%81%99/</link>
+      <pubDate>Tue, 05 Feb 2019 21:41:43 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%83%81%E3%83%BC%E3%83%A0%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%81%8C%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%82%92%E6%AE%BA%E3%81%99/</guid>
+      <description>チームファーストがプロダクトを殺す。｜papanda｜note を読みました。
+チームのモードを チームファースト と プロダクトファースト に分割して考えている記事でした。 チームをそのように捉えたことはなかったですが、良い分類の仕方だと感じました。
+書かれてる通りですが、どちらが正解ということではなく局面次第です。 ただ、私の経験と照らし合わせると、まずは成果を上げて信頼関係を築くことが大切（プロダクトファースト）で、その後に成果を継続的に出すために、チームファーストに移行していくと良いと思います。
+また、今どのモードにあるかの認識をチーム内で合わせておかないと、個々の意思決定でばらつきが出てしまうので、チーム内で認識を合わせることが大事だと感じました。（これも書いてあります）</description>
+    </item>
+    
+    <item>
+      <title>読みました-歴代ジャンプの悪の組織</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E6%AD%B4%E4%BB%A3%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E3%81%AE%E6%82%AA%E3%81%AE%E7%B5%84%E7%B9%94/</link>
+      <pubDate>Tue, 05 Feb 2019 21:24:49 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E6%AD%B4%E4%BB%A3%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E3%81%AE%E6%82%AA%E3%81%AE%E7%B5%84%E7%B9%94/</guid>
+      <description>歴代ジャンプの悪の組織 心理的安全性ランキング - なべはるの人事徒然 を読みました。
+漫画の悪の組織を例に心理的安全性について振られれており、心理的安全性の入り口としては面白いなと感じました。 また、ホラクラシー組織についても触れられています。</description>
+    </item>
+    
+    <item>
+      <title>読みました-スクラムチーム内で1on1を実施した話</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%A0%E3%83%81%E3%83%BC%E3%83%A0%E5%86%85%E3%81%A71on1%E3%82%92%E5%AE%9F%E6%96%BD%E3%81%97%E3%81%9F%E8%A9%B1/</link>
+      <pubDate>Sun, 03 Feb 2019 12:29:16 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%A0%E3%83%81%E3%83%BC%E3%83%A0%E5%86%85%E3%81%A71on1%E3%82%92%E5%AE%9F%E6%96%BD%E3%81%97%E3%81%9F%E8%A9%B1/</guid>
+      <description>スクラムチーム内で1on1を実施した話 を読みました。
+ ・アジャイルが実践できているチームの理想状態は、環境に適応して不確実性をもっとも効率よく削減できている状態。 ・不確実性を減らす全ての起点は「対話」。
+ 上記の認識を持っているチームで、対話を増やすためにメンバー間の1on1を実施した事の紹介記事です。 記事にも書かれていますが、1on1に限らずいろいろな方法を試して行ければ良いかなと感じました。</description>
+    </item>
+    
+    <item>
+      <title>読みました-マイクロサービスチーム編成のベストプラクティスとメルカリでの構想</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%83%81%E3%83%BC%E3%83%A0%E7%B7%A8%E6%88%90%E3%81%AE%E3%83%99%E3%82%B9%E3%83%88%E3%83%97%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%82%B9%E3%81%A8%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AA%E3%81%A7%E3%81%AE%E6%A7%8B%E6%83%B3/</link>
+      <pubDate>Mon, 03 Dec 2018 17:17:55 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%83%81%E3%83%BC%E3%83%A0%E7%B7%A8%E6%88%90%E3%81%AE%E3%83%99%E3%82%B9%E3%83%88%E3%83%97%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%82%B9%E3%81%A8%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AA%E3%81%A7%E3%81%AE%E6%A7%8B%E6%83%B3/</guid>
+      <description>マイクロサービスチーム編成のベストプラクティスとメルカリでの構想 - Mercari Engineering Blog を読みました。
+マイクロサービスを行っている組織の紹介があり、以下のようにまとめられていました。
+ チームにソフトウェア全般に関する自由度と責任の両方を与え、自己組織化されたチームとすることで、すばやく「より良い」ソフトウェアを開発できるようになり、これこそがマイクロサービスアーキテクチャのメリットとされています。
+ マイクロサービスの肝は組織と文化だと思っているのですが、どの程度浸透しているのでしょうか。</description>
+    </item>
+    
+  </channel>
 </rss>

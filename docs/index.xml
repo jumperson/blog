@@ -1,17 +1,804 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>My New Hugo Site on My New Hugo Site</title>
-		<link>https://jumperson.github.com/blog/</link>
-		<description>Recent content in My New Hugo Site on My New Hugo Site</description>
-		<generator>Hugo -- gohugo.io</generator>
-		
-  		<language>en-us</language>
-		
-		<managingEditor>Page(&#34;My New Hugo Site&#34;)</managingEditor>
-    	
-  		<lastBuildDate>Mon, 27 Apr 2020 09:30:11 +0900</lastBuildDate>
-		
-		<atom:link href="https://jumperson.github.com/blog/" rel="self" type="application/rss+xml" />
-		
-	</channel>
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://jumperson.github.com/blog/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Apr 2020 09:30:11 +0900</lastBuildDate>
+    
+	<atom:link href="https://jumperson.github.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>読みました-マンガで考える性格特性理論①やる気スイッチ編</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%83%9E%E3%83%B3%E3%82%AC%E3%81%A7%E8%80%83%E3%81%88%E3%82%8B%E6%80%A7%E6%A0%BC%E7%89%B9%E6%80%A7%E7%90%86%E8%AB%96%E3%82%84%E3%82%8B%E6%B0%97%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E7%B7%A8/</link>
+      <pubDate>Mon, 27 Apr 2020 09:30:11 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%83%9E%E3%83%B3%E3%82%AC%E3%81%A7%E8%80%83%E3%81%88%E3%82%8B%E6%80%A7%E6%A0%BC%E7%89%B9%E6%80%A7%E7%90%86%E8%AB%96%E3%82%84%E3%82%8B%E6%B0%97%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E7%B7%A8/</guid>
+      <description>マンガで考える性格特性理論①やる気スイッチ編｜櫻本 真理 | CoachEd/cotree｜note を読みました。
+4つに分類し、それぞれをやる気にさせるために何を与えるべきかわかりやすく書かれていました。</description>
+    </item>
+    
+    <item>
+      <title>読みました-コロナうつにならないために、リーダーが最低限知っておきたいメンタルヘルスの基礎知識</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%B3%E3%83%AD%E3%83%8A%E3%81%86%E3%81%A4%E3%81%AB%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84%E3%81%9F%E3%82%81%E3%81%AB%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%81%8C%E6%9C%80%E4%BD%8E%E9%99%90%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%8A%E3%81%8D%E3%81%9F%E3%81%84%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9%E3%81%AE%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98/</link>
+      <pubDate>Mon, 27 Apr 2020 09:10:31 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%B3%E3%83%AD%E3%83%8A%E3%81%86%E3%81%A4%E3%81%AB%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84%E3%81%9F%E3%82%81%E3%81%AB%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%81%8C%E6%9C%80%E4%BD%8E%E9%99%90%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%8A%E3%81%8D%E3%81%9F%E3%81%84%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9%E3%81%AE%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98/</guid>
+      <description>コロナうつにならないために、リーダーが最低限知っておきたいメンタルヘルスの基礎知識｜櫻本 真理 | CoachEd/cotree｜note を読みました。
+コロナに限らず、ストレスとの向き合い方、リーダーとしての向き合い方がわかりやすくまとまっていました。</description>
+    </item>
+    
+    <item>
+      <title>読みました-電子情報学特論：Chromiumのアーキテクチャを解き明かす</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E9%9B%BB%E5%AD%90%E6%83%85%E5%A0%B1%E5%AD%A6%E7%89%B9%E8%AB%96chromium%E3%81%AE%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3%E3%82%92%E8%A7%A3%E3%81%8D%E6%98%8E%E3%81%8B%E3%81%99/</link>
+      <pubDate>Wed, 22 Apr 2020 11:28:52 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E9%9B%BB%E5%AD%90%E6%83%85%E5%A0%B1%E5%AD%A6%E7%89%B9%E8%AB%96chromium%E3%81%AE%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3%E3%82%92%E8%A7%A3%E3%81%8D%E6%98%8E%E3%81%8B%E3%81%99/</guid>
+      <description>電子情報学特論：Chromiumのアーキテクチャを解き明かす - Google スライド を読みました。
+GoogleでChromiumの開発に関わっている方が以下の内容について書かれていました。
+ プロセスモデル メモリモデル レンダリングモデル 開発体制  非常にわかりやすく書かれていて、詳しく知りたい箇所はその場所へのリンクもあり良かったです。</description>
+    </item>
+    
+    <item>
+      <title>読みました-テストに対する考え方「Testing Manifesto」を翻訳したので紹介します</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%83%86%E3%82%B9%E3%83%88%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E8%80%83%E3%81%88%E6%96%B9testing-manifesto%E3%82%92%E7%BF%BB%E8%A8%B3%E3%81%97%E3%81%9F%E3%81%AE%E3%81%A7%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%BE%E3%81%99/</link>
+      <pubDate>Wed, 22 Apr 2020 11:02:15 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%83%86%E3%82%B9%E3%83%88%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E8%80%83%E3%81%88%E6%96%B9testing-manifesto%E3%82%92%E7%BF%BB%E8%A8%B3%E3%81%97%E3%81%9F%E3%81%AE%E3%81%A7%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%BE%E3%81%99/</guid>
+      <description>テストに対する考え方「Testing Manifesto」を翻訳したので紹介します - ブロッコリーのブログ を読みました。
+マニフェストも良いものだと思いましたし、翻訳した本も気になるので読んでみたいです。</description>
+    </item>
+    
+    <item>
+      <title>読みました-台湾の｢38歳｣デジタル大臣から見た日本の弱点</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E5%8F%B0%E6%B9%BE%E3%81%AE38%E6%AD%B3%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%A4%A7%E8%87%A3%E3%81%8B%E3%82%89%E8%A6%8B%E3%81%9F%E6%97%A5%E6%9C%AC%E3%81%AE%E5%BC%B1%E7%82%B9/</link>
+      <pubDate>Wed, 22 Apr 2020 10:52:26 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E5%8F%B0%E6%B9%BE%E3%81%AE38%E6%AD%B3%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%A4%A7%E8%87%A3%E3%81%8B%E3%82%89%E8%A6%8B%E3%81%9F%E6%97%A5%E6%9C%AC%E3%81%AE%E5%BC%B1%E7%82%B9/</guid>
+      <description>台湾の｢38歳｣デジタル大臣から見た日本の弱点 | 最新の週刊東洋経済 | 東洋経済オンライン | 経済ニュースの新基準 を読みました。
+注目されている唐鳳氏のインタビュー記事です。 タイトルにある日本の弱点についてはあまり触れられていません。 唐鳳氏のいろいろなものの見方が振られて言います。
+「デジタル技術はもっと謙虚であるべき」という視点を持っている点が印象的でした。</description>
+    </item>
+    
+    <item>
+      <title>読みました-アフターコロナ世界はどう変わるのか、9つの視点</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%E3%82%B3%E3%83%AD%E3%83%8A%E4%B8%96%E7%95%8C%E3%81%AF%E3%81%A9%E3%81%86%E5%A4%89%E3%82%8F%E3%82%8B%E3%81%AE%E3%81%8B9%E3%81%A4%E3%81%AE%E8%A6%96%E7%82%B9/</link>
+      <pubDate>Wed, 22 Apr 2020 10:33:11 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%E3%82%B3%E3%83%AD%E3%83%8A%E4%B8%96%E7%95%8C%E3%81%AF%E3%81%A9%E3%81%86%E5%A4%89%E3%82%8F%E3%82%8B%E3%81%AE%E3%81%8B9%E3%81%A4%E3%81%AE%E8%A6%96%E7%82%B9/</guid>
+      <description>アフターコロナ世界はどう変わるのか、9つの視点｜Noritaka Kobayashi, Ph.D/小林慎和　#未来を変える出会いを増やす｜note を読みました。
+知った経緯はこちらのtweetです。
+COVID-19で世界がどのように変わるのか9つの視点で書かれていました。 ミーティングの形が変わるといったミクロな視点と、大量生産大量消費社会のようなマクロな視点が書かれていました。
+議論の土台になるような内容でした。</description>
+    </item>
+    
+    <item>
+      <title>読みました-なぜSpotifyはOKRをやめた？アジャイル組織に最適な目標管理「Spotify Rhythm」とは</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%81%AA%E3%81%9Cspotify%E3%81%AFokr%E3%82%92%E3%82%84%E3%82%81%E3%81%9F%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%A4%E3%83%AB%E7%B5%84%E7%B9%94%E3%81%AB%E6%9C%80%E9%81%A9%E3%81%AA%E7%9B%AE%E6%A8%99%E7%AE%A1%E7%90%86spotify-rhythm%E3%81%A8%E3%81%AF/</link>
+      <pubDate>Mon, 06 Apr 2020 14:49:33 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%81%AA%E3%81%9Cspotify%E3%81%AFokr%E3%82%92%E3%82%84%E3%82%81%E3%81%9F%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%A4%E3%83%AB%E7%B5%84%E7%B9%94%E3%81%AB%E6%9C%80%E9%81%A9%E3%81%AA%E7%9B%AE%E6%A8%99%E7%AE%A1%E7%90%86spotify-rhythm%E3%81%A8%E3%81%AF/</guid>
+      <description>なぜSpotifyはOKRをやめた？アジャイル組織に最適な目標管理「Spotify Rhythm」とは｜加藤 章太朗 | RELATIONS株式会社｜note を読みました。
+SpotifyがOKRをやめて独自の目標管理システムし、そのシステムについて紹介されていました。 目標も機敏に変わるSpotifyではOKRに課題を感じ、独自のシステムに移行したそうです。</description>
+    </item>
+    
+    <item>
+      <title>読みました-【Swift】型を使うという意味を考える(Swift4で導入されたKeyPathを通して)</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-swift%E5%9E%8B%E3%82%92%E4%BD%BF%E3%81%86%E3%81%A8%E3%81%84%E3%81%86%E6%84%8F%E5%91%B3%E3%82%92%E8%80%83%E3%81%88%E3%82%8Bswift4%E3%81%A7%E5%B0%8E%E5%85%A5%E3%81%95%E3%82%8C%E3%81%9Fkeypath%E3%82%92%E9%80%9A%E3%81%97%E3%81%A6/</link>
+      <pubDate>Mon, 30 Mar 2020 10:18:34 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-swift%E5%9E%8B%E3%82%92%E4%BD%BF%E3%81%86%E3%81%A8%E3%81%84%E3%81%86%E6%84%8F%E5%91%B3%E3%82%92%E8%80%83%E3%81%88%E3%82%8Bswift4%E3%81%A7%E5%B0%8E%E5%85%A5%E3%81%95%E3%82%8C%E3%81%9Fkeypath%E3%82%92%E9%80%9A%E3%81%97%E3%81%A6/</guid>
+      <description>【Swift】型を使うという意味を考える(Swift4で導入されたKeyPathを通して) - Qiitaを読みました。
+KeyPathを理解するのにとても良かったです。</description>
+    </item>
+    
+    <item>
+      <title>読みました-Laravelで実践クリーンアーキテクチャ</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-laravel%E3%81%A7%E5%AE%9F%E8%B7%B5%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3/</link>
+      <pubDate>Fri, 27 Mar 2020 10:50:59 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-laravel%E3%81%A7%E5%AE%9F%E8%B7%B5%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3/</guid>
+      <description>Laravelで実践クリーンアーキテクチャ - Qiitaを読みました。
+LaravelやPHP関係なく、クリーンアーキテクチャについてわかりやすく解説しています。 この記事を読み、レイア分割も大事だが単方向性を大事にしていることを理解しました。</description>
+    </item>
+    
+    <item>
+      <title>読みました-エンジニアが成果アピールで意識すると良い4つの観点</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%8C%E6%88%90%E6%9E%9C%E3%82%A2%E3%83%94%E3%83%BC%E3%83%AB%E3%81%A7%E6%84%8F%E8%AD%98%E3%81%99%E3%82%8B%E3%81%A8%E8%89%AF%E3%81%844%E3%81%A4%E3%81%AE%E8%A6%B3%E7%82%B9/</link>
+      <pubDate>Fri, 27 Mar 2020 09:03:48 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%8C%E6%88%90%E6%9E%9C%E3%82%A2%E3%83%94%E3%83%BC%E3%83%AB%E3%81%A7%E6%84%8F%E8%AD%98%E3%81%99%E3%82%8B%E3%81%A8%E8%89%AF%E3%81%844%E3%81%A4%E3%81%AE%E8%A6%B3%E7%82%B9/</guid>
+      <description>エンジニアが成果アピールで意識すると良い4つの観点 – PSYENCE:MEDIA を読みました。
+4つは以下の観点です。
+ 成果 (創出した物事の価値・意義)  Issue度: どういった／どのくらいの問題に取り組んだか？ (重要度・規模感・難易度) 解の質: やったこと／結果は、どういった／どのくらいの変化・貢献をもたらしたか？ (価値・意義)   プロセス (成果を生み出した理由・背景)  革新性: アプローチ手法の着眼の良さ／工夫点はあるか？ (アプローチ方法) 主体性: アプローチをどのような立場で／どのくらい主体的に推進したか？ (進め方)    本文では具体例も紹介されていました。 自己評価を上司に見てもらった時によく指摘される点が網羅されていて、良い観点だと感じました。</description>
+    </item>
+    
+    <item>
+      <title>読みました-イノベーションの原理と実践をまとめたU理論を読んで、目的化されたイノベーションについて考えた</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E5%8E%9F%E7%90%86%E3%81%A8%E5%AE%9F%E8%B7%B5%E3%82%92%E3%81%BE%E3%81%A8%E3%82%81%E3%81%9Fu%E7%90%86%E8%AB%96%E3%82%92%E8%AA%AD%E3%82%93%E3%81%A7%E7%9B%AE%E7%9A%84%E5%8C%96%E3%81%95%E3%82%8C%E3%81%9F%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%80%83%E3%81%88%E3%81%9F/</link>
+      <pubDate>Wed, 11 Sep 2019 18:16:34 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E5%8E%9F%E7%90%86%E3%81%A8%E5%AE%9F%E8%B7%B5%E3%82%92%E3%81%BE%E3%81%A8%E3%82%81%E3%81%9Fu%E7%90%86%E8%AB%96%E3%82%92%E8%AA%AD%E3%82%93%E3%81%A7%E7%9B%AE%E7%9A%84%E5%8C%96%E3%81%95%E3%82%8C%E3%81%9F%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%80%83%E3%81%88%E3%81%9F/</guid>
+      <description>イノベーションの原理と実践をまとめたU理論を読んで、目的化されたイノベーションについて考えた｜村石怜菜｜note を読みました。
+受託開発畑から自社プロダクト開発に移った方がU理論の本をレポートした記事です。 U理論は精神世界や哲学的な内容も含まれており非常に難解のようです。 イノベーションに関連するので一度は見てみたいです。</description>
+    </item>
+    
+    <item>
+      <title>読みました-「市役所JK課」仕掛け人が説く、イノベーションが「ゆるさ」から生まれる理由</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E5%B8%82%E5%BD%B9%E6%89%80jk%E8%AA%B2%E4%BB%95%E6%8E%9B%E3%81%91%E4%BA%BA%E3%81%8C%E8%AA%AC%E3%81%8F%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%8C%E3%82%86%E3%82%8B%E3%81%95%E3%81%8B%E3%82%89%E7%94%9F%E3%81%BE%E3%82%8C%E3%82%8B%E7%90%86%E7%94%B1/</link>
+      <pubDate>Wed, 11 Sep 2019 18:08:38 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E5%B8%82%E5%BD%B9%E6%89%80jk%E8%AA%B2%E4%BB%95%E6%8E%9B%E3%81%91%E4%BA%BA%E3%81%8C%E8%AA%AC%E3%81%8F%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%8C%E3%82%86%E3%82%8B%E3%81%95%E3%81%8B%E3%82%89%E7%94%9F%E3%81%BE%E3%82%8C%E3%82%8B%E7%90%86%E7%94%B1/</guid>
+      <description>「市役所JK課」仕掛け人が説く、イノベーションが「ゆるさ」から生まれる理由 - THE ACADEMIA を読みました。
+福井県鯖江市の取り組みが紹介されてました。 イノベーションには「ゆるさ」が必要とのこと。</description>
+    </item>
+    
+    <item>
+      <title>読みました-本田宗一郎と豊田章男に学ぶ「チームの作り方」</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E6%9C%AC%E7%94%B0%E5%AE%97%E4%B8%80%E9%83%8E%E3%81%A8%E8%B1%8A%E7%94%B0%E7%AB%A0%E7%94%B7%E3%81%AB%E5%AD%A6%E3%81%B6%E3%83%81%E3%83%BC%E3%83%A0%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9/</link>
+      <pubDate>Wed, 11 Sep 2019 18:06:46 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E6%9C%AC%E7%94%B0%E5%AE%97%E4%B8%80%E9%83%8E%E3%81%A8%E8%B1%8A%E7%94%B0%E7%AB%A0%E7%94%B7%E3%81%AB%E5%AD%A6%E3%81%B6%E3%83%81%E3%83%BC%E3%83%A0%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9/</guid>
+      <description>本田宗一郎と豊田章男に学ぶ「チームの作り方」（サライ.jp） - Yahoo!ニュース を読みました。
+どちらも自分とは異質の人を側近に迎えて成功しているようです。</description>
+    </item>
+    
+    <item>
+      <title>1000文字でわかるジョブ理論</title>
+      <link>https://jumperson.github.com/blog/posts/1000%E6%96%87%E5%AD%97%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8B%E3%82%B8%E3%83%A7%E3%83%96%E7%90%86%E8%AB%96/</link>
+      <pubDate>Wed, 07 Aug 2019 09:48:03 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/1000%E6%96%87%E5%AD%97%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8B%E3%82%B8%E3%83%A7%E3%83%96%E7%90%86%E8%AB%96/</guid>
+      <description>ジョブ理論 の内容を1000文字以内でまとめました。
+ジョブ理論  イノベーションを予測可能にするもの データは「なぜ」その選択をするのかは教えてくれない 「なぜ」がわからないとイノベーションは起こせない そこでジョブ  ジョブとは  ジョブとはある特定の状況で人が成し遂げようとする進歩  成し遂げたい進歩の性質に状況が強く影響する   ニーズと比べ、はるかに細かい詳細化が伴う 動詞と名詞で表現される  形容詞や副詞で説明しているジョブは曖昧   特定のプロダクトでしか解決できないのならそれはジョブではない  適切な抽象度が必要   機能的側面、社会的側面、感情的側面がある  機能しか提供しない解決策はたやすく解雇される   ジョブの定義には「ああそうか」のひらめきが大事 ジョブを理解すると消費者が進歩しようとするときに何を最も気にかけるのかを理解できる  ジョブの見つけ方  顧客の話を聞く  顧客は必要なものを明確に伝えられることはめったに無いが、悪戦苦闘していることは伝える事ができる   顧客を観察する  人ではなく、ジョブを観察する   「このサービスを購入しなければ内を購入していましたか？」と顧客に質問する 問うべき問い「どんなジョブ（用事、仕事）を片付けたくて、あなたはそのプロダクトを雇用するのか？」 何を雇用するのかと同じくらい何を解雇するのかが大事。そこにストーリーがある。  ジョブへの取り組み  ジョブを完全に満たすにはプロダクトを生み出すだけでなく、企業プロセスの統合が必要 ジョブは長い間変化しない。解決策は変化する。 新しい技術がジョブの解決方法を向上させることは多いが、ジョブそのものの理解を深めることが大切  解決策に夢中になるべきではない   プロダクトを初めて買う瞬間（ビッグハイア）もプロダクトを消費する瞬間（リトルハイア）も大事  競争相手  無消費も競争相手 現状に不満があり新しい解決策が魅力的でも、新しい解決策に乗り換えようとする力よりも変化に反対する力の方が大きければ乗り換えようとしない  ジョブと組織  組織はジョブ中心に最適化すべき  プロセス  ジョブはプロセスを何に合わせて最適化するかの尺度になる ジョブ中心に組織をまとめるには予測可能で反復可能なプロセスが必要 ジョブは不変的だが、プロセスは柔軟にする  マネジメント  明確なジョブは組織の意図となりマイクロマネジメントの必要性を排除する 大きな組織の場合ジョブのコンセプトを単純にしなければならない。それは容易ではない。  </description>
+    </item>
+    
+    <item>
+      <title>読みました-ジョブ理論-イノベーションのデータの3つの誤謬</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%B8%E3%83%A7%E3%83%96%E7%90%86%E8%AB%96-%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE3%E3%81%A4%E3%81%AE%E8%AA%A4%E8%AC%AC/</link>
+      <pubDate>Tue, 30 Jul 2019 08:37:00 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%B8%E3%83%A7%E3%83%96%E7%90%86%E8%AB%96-%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE3%E3%81%A4%E3%81%AE%E8%AA%A4%E8%AC%AC/</guid>
+      <description>ジョブ理論 を読みました。
+275ページから紹介されていた「イノベーションのデータの3つの誤謬（ごびゅう）」を紹介します。
+能動的データと受動的データの誤謬 ジョブの奥深い複雑さを特色付けるデータ（受動的データ）を重要視しつづける代わりに、業務に関連したデータ（能動的データ）を生成し始め、その見かけ上の客観性と精密さに誘惑されやすい。 これにより、ジョブ中心からプロダクトや顧客特性中心の組織に変わっていく。
+見かけ上の成長の誤謬 見かけ上の成長のために対象顧客を増やしたり、プロダクトの種類を増やしてしまう。 そして、最初の成功をもたらしたジョブへのフォーカスを失う。
+確証データの誤謬 データには確認したい観点にみずからを同調させるという悩ましい性質がある。</description>
+    </item>
+    
+    <item>
+      <title>読みました-ジョブ理論-ジョブスペック</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%B8%E3%83%A7%E3%83%96%E7%90%86%E8%AB%96-%E3%82%B8%E3%83%A7%E3%83%96%E3%82%B9%E3%83%9A%E3%83%83%E3%82%AF/</link>
+      <pubDate>Tue, 30 Jul 2019 08:30:20 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%B8%E3%83%A7%E3%83%96%E7%90%86%E8%AB%96-%E3%82%B8%E3%83%A7%E3%83%96%E3%82%B9%E3%83%9A%E3%83%83%E3%82%AF/</guid>
+      <description>ジョブ理論 を読みました。
+199ページで紹介されていた、「ジョブスペック」について紹介します。
+ 「ジョブ」は進歩を遂げようと苦労している顧客の立場から状況を組み立てる 「ジョブスペック」はイノベーターの視点からジョブをとらえたもの ジョブスペックに含まれるもの  顧客が求める進歩と受け入れるトレードオフ 打ち負かすべき競合 乗り越えるべき障害物を明らかにする機能的・感情的・社会的側面    </description>
+    </item>
+    
+    <item>
+      <title>読みました-ジョブ理論-選択におけるふたつの相反する力</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%B8%E3%83%A7%E3%83%96%E7%90%86%E8%AB%96-%E9%81%B8%E6%8A%9E%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%81%B5%E3%81%9F%E3%81%A4%E3%81%AE%E7%9B%B8%E5%8F%8D%E3%81%99%E3%82%8B%E5%8A%9B/</link>
+      <pubDate>Tue, 30 Jul 2019 08:20:02 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%B8%E3%83%A7%E3%83%96%E7%90%86%E8%AB%96-%E9%81%B8%E6%8A%9E%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%81%B5%E3%81%9F%E3%81%A4%E3%81%AE%E7%9B%B8%E5%8F%8D%E3%81%99%E3%82%8B%E5%8A%9B/</guid>
+      <description>ジョブ理論 を読みました。
+155ページで紹介されていた、選択を行う瞬間に綱引きをしている「ふたつの相反する力」について紹介します。
+ 新しい解決策に乗り換えようとする力  顧客が解決したい問題の力  問題への不満は顧客にアクションを取りたいと思わせるほど強くなければならない おもしろくないとか気に入りないと感じる程度では弱い   新しいプロダクトの力  顧客に進歩を与え、生活をよりよくできるものか     変化に反対する力  現行の慣習  現状に満足はしていないが少なくとも今のやり方に慣れている 問題の存在になれた状態   変わることや新しいことへの不安    </description>
+    </item>
+    
+    <item>
+      <title>読みました-ジョブ理論-ジョブを明らかにする方法</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%B8%E3%83%A7%E3%83%96%E7%90%86%E8%AB%96-%E3%82%B8%E3%83%A7%E3%83%96%E3%82%92%E6%98%8E%E3%82%89%E3%81%8B%E3%81%AB%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/</link>
+      <pubDate>Sat, 27 Jul 2019 10:34:48 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%B8%E3%83%A7%E3%83%96%E7%90%86%E8%AB%96-%E3%82%B8%E3%83%A7%E3%83%96%E3%82%92%E6%98%8E%E3%82%89%E3%81%8B%E3%81%AB%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/</guid>
+      <description>ジョブ理論 を読みました。
+123ページから紹介されていた「すぐ目の前にあるかもしれないジョブを明らかにする方法」を紹介します。
+ 生活に身近なジョブを探す  個人的に片付けるべきジョブ 既存顧客やまだ獲得していない顧客を観察する   無消費と競争する  何も雇用していない人からも多くのことを学べる   間に合せの対処作  現在の解決策に満足しておらず、あれこれ工夫して自分なりの解決策を作ろうとしている消費者を注意深く観察する そこに顧客が高い価値を認めてくれるイノベーションの手がかりがあるかもしれない ただ、どういう状況で苦労しているのかを充分に深く掘り下げなければ、間に合せでやりくりしている変則的な振る舞いに気づくことはできない   できれば避けたいこと  できれば避けたいジョブは、進んでやりたいことと同じくらいたくさんある できれば避けたいジョブはイノベーションの優れた機会であることが多い   意外な使われ方  顧客がプロダクトをどう使っているのかを観察することでも多くを学べる 企業が想定していたのとは異なる使われ方の場合には非常に参考になる 例えば重曹など    </description>
+    </item>
+    
+    <item>
+      <title>読みました-ジョブ理論-思考実験</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%B8%E3%83%A7%E3%83%96%E7%90%86%E8%AB%96-%E6%80%9D%E8%80%83%E5%AE%9F%E9%A8%93/</link>
+      <pubDate>Sat, 27 Jul 2019 05:23:42 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%B8%E3%83%A7%E3%83%96%E7%90%86%E8%AB%96-%E6%80%9D%E8%80%83%E5%AE%9F%E9%A8%93/</guid>
+      <description>ジョブ理論 を読みました。
+66ページで紹介されていたジョブ理論で役立つ思考実験について紹介します。
+特定の状況で進歩を遂げようようと苦心している人を、短編ドキュメンタリー映画ふうに頭の中で投影してみると良い。 その映画に記録されるべき要素は次の5つ。
+ その人がなし遂げようとしている進歩は何か。求めている進歩の機能的、社会的、感情的側面はどのようなものか。 苦心している状況は何か。誰がいつどこで何をしているときか。 進歩を成し遂げるのを阻む障害物は何か。 不完全な解決策で我慢し、埋め合わせの行動をとっていないか。ジョブを完全には片づけない商品やサービスに頼っていないか。複数の商品を継ぎ接ぎして一時しのぎの解決策を作っていないか。 その人にとって、よりよい解決策をもたらす品質の定義は何か、また、その解決策のためにトレードオフにしてもいいと思うものは何か。  この5つの問いに答えることで、ジョブをより具体化できるようになる。</description>
+    </item>
+    
+    <item>
+      <title>読みました-個人アプリ開発をする時間をどうやって確保しているか</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E5%80%8B%E4%BA%BA%E3%82%A2%E3%83%97%E3%83%AA%E9%96%8B%E7%99%BA%E3%82%92%E3%81%99%E3%82%8B%E6%99%82%E9%96%93%E3%82%92%E3%81%A9%E3%81%86%E3%82%84%E3%81%A3%E3%81%A6%E7%A2%BA%E4%BF%9D%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B/</link>
+      <pubDate>Wed, 24 Jul 2019 17:14:32 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E5%80%8B%E4%BA%BA%E3%82%A2%E3%83%97%E3%83%AA%E9%96%8B%E7%99%BA%E3%82%92%E3%81%99%E3%82%8B%E6%99%82%E9%96%93%E3%82%92%E3%81%A9%E3%81%86%E3%82%84%E3%81%A3%E3%81%A6%E7%A2%BA%E4%BF%9D%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>読みました-クリエイティブ図書館企画展『デザイン思考入門』–ビズリーチのデザイナーが選ぶ今月の本</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E5%9B%B3%E6%9B%B8%E9%A4%A8%E4%BC%81%E7%94%BB%E5%B1%95%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E6%80%9D%E8%80%83%E5%85%A5%E9%96%80%E3%83%93%E3%82%BA%E3%83%AA%E3%83%BC%E3%83%81%E3%81%AE%E3%83%87%E3%82%B6%E3%82%A4%E3%83%8A%E3%83%BC%E3%81%8C%E9%81%B8%E3%81%B6%E4%BB%8A%E6%9C%88%E3%81%AE%E6%9C%AC/</link>
+      <pubDate>Wed, 24 Jul 2019 16:59:40 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E5%9B%B3%E6%9B%B8%E9%A4%A8%E4%BC%81%E7%94%BB%E5%B1%95%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E6%80%9D%E8%80%83%E5%85%A5%E9%96%80%E3%83%93%E3%82%BA%E3%83%AA%E3%83%BC%E3%83%81%E3%81%AE%E3%83%87%E3%82%B6%E3%82%A4%E3%83%8A%E3%83%BC%E3%81%8C%E9%81%B8%E3%81%B6%E4%BB%8A%E6%9C%88%E3%81%AE%E6%9C%AC/</guid>
+      <description>クリエイティブ図書館 企画展『デザイン思考入門』 – ビズリーチのデザイナーが選ぶ今月の本　| BizReach Designer Blog を読みました。
+ビズリーチのデザイナさんがデザイン思考に関する本を紹介しています。 知らない本がたくさんありました。</description>
+    </item>
+    
+    <item>
+      <title>読みました-料理をつくる人はどんな課題を抱えているのか？〜ユーザーの課題を施策につなげるインタビューの取り組み〜</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E6%96%99%E7%90%86%E3%82%92%E3%81%A4%E3%81%8F%E3%82%8B%E4%BA%BA%E3%81%AF%E3%81%A9%E3%82%93%E3%81%AA%E8%AA%B2%E9%A1%8C%E3%82%92%E6%8A%B1%E3%81%88%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%AE%E8%AA%B2%E9%A1%8C%E3%82%92%E6%96%BD%E7%AD%96%E3%81%AB%E3%81%A4%E3%81%AA%E3%81%92%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%81%AE%E5%8F%96%E3%82%8A%E7%B5%84%E3%81%BF/</link>
+      <pubDate>Wed, 24 Jul 2019 13:45:34 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E6%96%99%E7%90%86%E3%82%92%E3%81%A4%E3%81%8F%E3%82%8B%E4%BA%BA%E3%81%AF%E3%81%A9%E3%82%93%E3%81%AA%E8%AA%B2%E9%A1%8C%E3%82%92%E6%8A%B1%E3%81%88%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%AE%E8%AA%B2%E9%A1%8C%E3%82%92%E6%96%BD%E7%AD%96%E3%81%AB%E3%81%A4%E3%81%AA%E3%81%92%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%81%AE%E5%8F%96%E3%82%8A%E7%B5%84%E3%81%BF/</guid>
+      <description>料理をつくる人はどんな課題を抱えているのか？ 〜ユーザーの課題を施策につなげるインタビューの取り組み〜 - クックパッド開発者ブログ を読みました。
+クックパッドが新規で開発したアプリでユーザインタビューを実施した記事です。 アプリの開発を始める前にインタビューすることの重要性がわかる内容になっていました。</description>
+    </item>
+    
+    <item>
+      <title>読みました-サービス開発でぶつかってきた壁と、そのとき助けてくれた本</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E7%99%BA%E3%81%A7%E3%81%B6%E3%81%A4%E3%81%8B%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F%E5%A3%81%E3%81%A8%E3%81%9D%E3%81%AE%E3%81%A8%E3%81%8D%E5%8A%A9%E3%81%91%E3%81%A6%E3%81%8F%E3%82%8C%E3%81%9F%E6%9C%AC/</link>
+      <pubDate>Wed, 24 Jul 2019 13:27:18 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E7%99%BA%E3%81%A7%E3%81%B6%E3%81%A4%E3%81%8B%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F%E5%A3%81%E3%81%A8%E3%81%9D%E3%81%AE%E3%81%A8%E3%81%8D%E5%8A%A9%E3%81%91%E3%81%A6%E3%81%8F%E3%82%8C%E3%81%9F%E6%9C%AC/</guid>
+      <description>サービス開発でぶつかってきた壁と、そのとき助けてくれた本 - クックパッド開発者ブログ を読みました。
+サービス開発で現れる3つの壁に対して参考になる書籍を紹介していました。 また、本をチーム活動に取り入れていく方法についても書かれていました。
+ 「ユーザー課題の見極め難しい！」の壁  ジョブ理論   「戦略づくり難しい！」の壁  ストーリーとしての競争戦略   「良いソリューションアイデアが出ない！」の壁  SPRINT 最速仕事術―あらゆる仕事がうまくいく最も合理的な方法 直感と論理をつなぐ思考法 VISION DRIVEN    </description>
+    </item>
+    
+    <item>
+      <title>読みました-父親に聞いた管理職として「ダメなチームをデキるチームにする必勝パターン」</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E7%88%B6%E8%A6%AA%E3%81%AB%E8%81%9E%E3%81%84%E3%81%9F%E7%AE%A1%E7%90%86%E8%81%B7%E3%81%A8%E3%81%97%E3%81%A6%E3%83%80%E3%83%A1%E3%81%AA%E3%83%81%E3%83%BC%E3%83%A0%E3%82%92%E3%83%87%E3%82%AD%E3%82%8B%E3%83%81%E3%83%BC%E3%83%A0%E3%81%AB%E3%81%99%E3%82%8B%E5%BF%85%E5%8B%9D%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3/</link>
+      <pubDate>Mon, 24 Jun 2019 12:40:41 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E7%88%B6%E8%A6%AA%E3%81%AB%E8%81%9E%E3%81%84%E3%81%9F%E7%AE%A1%E7%90%86%E8%81%B7%E3%81%A8%E3%81%97%E3%81%A6%E3%83%80%E3%83%A1%E3%81%AA%E3%83%81%E3%83%BC%E3%83%A0%E3%82%92%E3%83%87%E3%82%AD%E3%82%8B%E3%83%81%E3%83%BC%E3%83%A0%E3%81%AB%E3%81%99%E3%82%8B%E5%BF%85%E5%8B%9D%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3/</guid>
+      <description>父親に聞いた管理職として「ダメなチームをデキるチームにする必勝パターン」 - komagataのブログ を読みました。
+紹介されていた必勝パターンはこんな感じです。
+ 中心人物の協力を取り付ける 中心人物を司会として改善会議を開く 一番出来ないとされている人を全力でフォロー 小さな成果もべた褒めする  このパターンで成果が出るようにしても、上が出来ない人に変わると成果が出なくなるようです。 上が変わっても成果が出るようにするにはもう一歩進んだ方法が必要なのかもしれません。</description>
+    </item>
+    
+    <item>
+      <title>読みました-宮崎編：地方だから、は言い訳にならない</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E5%AE%AE%E5%B4%8E%E7%B7%A8%E5%9C%B0%E6%96%B9%E3%81%A0%E3%81%8B%E3%82%89%E3%81%AF%E8%A8%80%E3%81%84%E8%A8%B3%E3%81%AB%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84/</link>
+      <pubDate>Thu, 20 Jun 2019 19:11:51 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E5%AE%AE%E5%B4%8E%E7%B7%A8%E5%9C%B0%E6%96%B9%E3%81%A0%E3%81%8B%E3%82%89%E3%81%AF%E8%A8%80%E3%81%84%E8%A8%B3%E3%81%AB%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84/</guid>
+      <description>宮崎編：地方だから、は言い訳にならない――リモート、他県合同、テックランチ etc.etc.　さまざまな形態で開催される宮崎のIT勉強会 (1/3)：ITエンジニア U＆Iターンの理想と現実（63） - ＠IT を読みました。
+地方でもやっていけるぞ！って記事でした。</description>
+    </item>
+    
+    <item>
+      <title>読みました-iOS13にしかないフレームワークを使用したアプリをiOS12以下でも動くようにするには</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-ios13%E3%81%AB%E3%81%97%E3%81%8B%E3%81%AA%E3%81%84%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%9F%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92ios12%E4%BB%A5%E4%B8%8B%E3%81%A7%E3%82%82%E5%8B%95%E3%81%8F%E3%82%88%E3%81%86%E3%81%AB%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF/</link>
+      <pubDate>Thu, 20 Jun 2019 13:01:18 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-ios13%E3%81%AB%E3%81%97%E3%81%8B%E3%81%AA%E3%81%84%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%9F%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92ios12%E4%BB%A5%E4%B8%8B%E3%81%A7%E3%82%82%E5%8B%95%E3%81%8F%E3%82%88%E3%81%86%E3%81%AB%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF/</guid>
+      <description>iOS 13にしかないフレームワークを使用したアプリをiOS 12以下でも動くようにするには - 24/7 twenty-four seven を読みました。
+iOS13以上の環境にしか存在しないフレームワークを含んだアプリをiOS12以下の環境をサポートして起動させるためのWeak Linkという方法を紹介しています。 iOS13以上の方には機能を提供し、iOS12以下の方には提供しない場合に使用します。</description>
+    </item>
+    
+    <item>
+      <title>読みました-デザインとは交渉すること</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%A8%E3%81%AF%E4%BA%A4%E6%B8%89%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8/</link>
+      <pubDate>Thu, 20 Jun 2019 12:41:20 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%A8%E3%81%AF%E4%BA%A4%E6%B8%89%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8/</guid>
+      <description>デザインとは交渉すること : could を読みました。
+本記事にも書かれていましたが、デザインだけではなく、組織で働く上では専門外の人と交渉し、お互いに納得した上で進めていくことが非常に大切です。</description>
+    </item>
+    
+    <item>
+      <title>読みました-FirestoreでCQRSやってみた</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-firestore%E3%81%A7cqrs%E3%82%84%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F/</link>
+      <pubDate>Thu, 20 Jun 2019 10:59:20 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-firestore%E3%81%A7cqrs%E3%82%84%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F/</guid>
+      <description>Firestore で CQRS やってみた - Speaker Deck を読みました。
+Commnads用のデータ構造とQueries用のデータ構造を用意して、Commnadsに変更が入るとQueriesを更新する設計でした。 非正規化の設計だとこういう感じなのかもしれません。</description>
+    </item>
+    
+    <item>
+      <title>読みました-エンジニアのための「ジョブ理論」まとめ</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%82%B8%E3%83%A7%E3%83%96%E7%90%86%E8%AB%96%E3%81%BE%E3%81%A8%E3%82%81/</link>
+      <pubDate>Mon, 10 Jun 2019 16:04:18 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%82%B8%E3%83%A7%E3%83%96%E7%90%86%E8%AB%96%E3%81%BE%E3%81%A8%E3%82%81/</guid>
+      <description>エンジニアのための「ジョブ理論」まとめ - Qiita を読みました。
+ジョブ理論は書籍も読み、とても良い内容でした。 書籍の内容を簡単に知れる良い内容だと感じました。</description>
+    </item>
+    
+    <item>
+      <title>読みました-SPAにおける状態管理:関数型のアプローチも取り入れるフロントエンド系アーキテクチャの変遷</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-spa%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E7%8A%B6%E6%85%8B%E7%AE%A1%E7%90%86%E9%96%A2%E6%95%B0%E5%9E%8B%E3%81%AE%E3%82%A2%E3%83%97%E3%83%AD%E3%83%BC%E3%83%81%E3%82%82%E5%8F%96%E3%82%8A%E5%85%A5%E3%82%8C%E3%82%8B%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%82%A8%E3%83%B3%E3%83%89%E7%B3%BB%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3%E3%81%AE%E5%A4%89%E9%81%B7/</link>
+      <pubDate>Mon, 10 Jun 2019 15:46:35 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-spa%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E7%8A%B6%E6%85%8B%E7%AE%A1%E7%90%86%E9%96%A2%E6%95%B0%E5%9E%8B%E3%81%AE%E3%82%A2%E3%83%97%E3%83%AD%E3%83%BC%E3%83%81%E3%82%82%E5%8F%96%E3%82%8A%E5%85%A5%E3%82%8C%E3%82%8B%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%82%A8%E3%83%B3%E3%83%89%E7%B3%BB%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3%E3%81%AE%E5%A4%89%E9%81%B7/</guid>
+      <description>SPAにおける状態管理: 関数型のアプローチも取り入れるフロントエンド系アーキテクチャの変遷 - エンジニアHub｜若手Webエンジニアのキャリアを考える！ を読みました。
+Backbone.js, AngularJS/Vue.js, Flux, Reactと変異してきたフロントエンドのアーキテクチャについて、それぞれで、解決した課題がどういうものだったかも交えて紹介されていました。
+なぜ、そこにたどり着いたのかがわかる良い記事でした。</description>
+    </item>
+    
+    <item>
+      <title>読みました-メソッド名をシンプルにするために、知っておくと便利な英語のprefixとsuffix</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%83%A1%E3%82%BD%E3%83%83%E3%83%89%E5%90%8D%E3%82%92%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AB%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%8A%E3%81%8F%E3%81%A8%E4%BE%BF%E5%88%A9%E3%81%AA%E8%8B%B1%E8%AA%9E%E3%81%AEprefix%E3%81%A8suffix/</link>
+      <pubDate>Mon, 10 Jun 2019 14:44:59 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%83%A1%E3%82%BD%E3%83%83%E3%83%89%E5%90%8D%E3%82%92%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AB%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%8A%E3%81%8F%E3%81%A8%E4%BE%BF%E5%88%A9%E3%81%AA%E8%8B%B1%E8%AA%9E%E3%81%AEprefix%E3%81%A8suffix/</guid>
+      <description>メソッド名をシンプルにするために、 知っておくと便利な英語のprefixとsuffix - codic ブログ を読みました。 コードのネーミングをサポートする プログラマーのためのネーミング辞書 | codic の開発者ブログです。
+この記事ではいまいちなネーミングをネイティブっぽく良い感じに出来るprefix/suffixを紹介されていました。</description>
+    </item>
+    
+    <item>
+      <title>読みました-デザイン思考とクリティカルデザインの違い</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E6%80%9D%E8%80%83%E3%81%A8%E3%82%AF%E3%83%AA%E3%83%86%E3%82%A3%E3%82%AB%E3%83%AB%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E9%81%95%E3%81%84/</link>
+      <pubDate>Wed, 22 May 2019 17:23:52 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E6%80%9D%E8%80%83%E3%81%A8%E3%82%AF%E3%83%AA%E3%83%86%E3%82%A3%E3%82%AB%E3%83%AB%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E9%81%95%E3%81%84/</guid>
+      <description>デザイン思考とクリティカルデザインの違い – 東京工業大学エンジニアリングデザインプロジェクト – Medium を読みました。
+デザイン思考とクリティカルデザインの比較をしています。 デザイン思考はユーザよりで、クリティカルデザインは作り手よりの方法論です。 クリティカルデザインよりで考える機会は少なそうですが、知っておいて損はないと感じています。</description>
+    </item>
+    
+    <item>
+      <title>読みました-これであなたもテスト駆動開発マスター！？和田卓人さんがテスト駆動開発問題を解答コード使いながら解説します～現在時刻が関わるテストから、テスト容易性設計を学ぶ</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%81%93%E3%82%8C%E3%81%A7%E3%81%82%E3%81%AA%E3%81%9F%E3%82%82%E3%83%86%E3%82%B9%E3%83%88%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E5%92%8C%E7%94%B0%E5%8D%93%E4%BA%BA%E3%81%95%E3%82%93%E3%81%8C%E3%83%86%E3%82%B9%E3%83%88%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA%E5%95%8F%E9%A1%8C%E3%82%92%E8%A7%A3%E7%AD%94%E3%82%B3%E3%83%BC%E3%83%89%E4%BD%BF%E3%81%84%E3%81%AA%E3%81%8C%E3%82%89%E8%A7%A3%E8%AA%AC%E3%81%97%E3%81%BE%E3%81%99/</link>
+      <pubDate>Mon, 20 May 2019 15:49:23 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%81%93%E3%82%8C%E3%81%A7%E3%81%82%E3%81%AA%E3%81%9F%E3%82%82%E3%83%86%E3%82%B9%E3%83%88%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E5%92%8C%E7%94%B0%E5%8D%93%E4%BA%BA%E3%81%95%E3%82%93%E3%81%8C%E3%83%86%E3%82%B9%E3%83%88%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA%E5%95%8F%E9%A1%8C%E3%82%92%E8%A7%A3%E7%AD%94%E3%82%B3%E3%83%BC%E3%83%89%E4%BD%BF%E3%81%84%E3%81%AA%E3%81%8C%E3%82%89%E8%A7%A3%E8%AA%AC%E3%81%97%E3%81%BE%E3%81%99/</guid>
+      <description>随分前にはなりますが「これであなたもテスト駆動開発マスター！？和田卓人さんがテスト駆動開発問題を解答コード使いながら解説します～現在時刻が関わるテストから、テスト容易性設計を学ぶ」を読みました。 CodeIQというサービスの記事で、サービスがなくなり参照できなくなっていました。
+Web Archiveには残っていたので参照を貼っておきます。 これであなたもテスト駆動開発マスター！？和田卓人さんがテスト駆動開発問題を解答コード使いながら解説します～現在時刻が関わるテストから、テスト容易性設計を学ぶ #tdd｜CodeIQ MAGAZINE
+内部で現在日時などを参照しているメソッドに対してTDDとしてどういうアプローチを取るのが良いのか深い考察がされている良い記事でした。</description>
+    </item>
+    
+    <item>
+      <title>読みました-サーバーレスを使用して最初の６ヶ月で学んだ６つのこと</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%83%AC%E3%82%B9%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%A6%E6%9C%80%E5%88%9D%E3%81%AE%EF%BC%96%E3%83%B6%E6%9C%88%E3%81%A7%E5%AD%A6%E3%82%93%E3%81%A0%EF%BC%96%E3%81%A4%E3%81%AE%E3%81%93%E3%81%A8/</link>
+      <pubDate>Wed, 08 May 2019 15:55:24 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%83%AC%E3%82%B9%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%A6%E6%9C%80%E5%88%9D%E3%81%AE%EF%BC%96%E3%83%B6%E6%9C%88%E3%81%A7%E5%AD%A6%E3%82%93%E3%81%A0%EF%BC%96%E3%81%A4%E3%81%AE%E3%81%93%E3%81%A8/</guid>
+      <description>従来のレガシーな構成と比較して、今どきのサーバレスな構成が紹介されていました。
+登場する技術は以下のとおりです。
+ Lambda Node/Express Vue.js DynamoDB Serverless Framework JWT  </description>
+    </item>
+    
+    <item>
+      <title>読みました-「情熱を探そう」というアドバイスはもうやめよう</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E6%83%85%E7%86%B1%E3%82%92%E6%8E%A2%E3%81%9D%E3%81%86%E3%81%A8%E3%81%84%E3%81%86%E3%82%A2%E3%83%89%E3%83%90%E3%82%A4%E3%82%B9%E3%81%AF%E3%82%82%E3%81%86%E3%82%84%E3%82%81%E3%82%88%E3%81%86/</link>
+      <pubDate>Tue, 07 May 2019 08:09:47 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E6%83%85%E7%86%B1%E3%82%92%E6%8E%A2%E3%81%9D%E3%81%86%E3%81%A8%E3%81%84%E3%81%86%E3%82%A2%E3%83%89%E3%83%90%E3%82%A4%E3%82%B9%E3%81%AF%E3%82%82%E3%81%86%E3%82%84%E3%82%81%E3%82%88%E3%81%86/</guid>
+      <description>「情熱を探そう」というアドバイスはもうやめよう – Taka Umada – Medium を読みました。
+2005年のスタンフォード大学の卒業スピーチで、スティーブ・ジョブスは「情熱を探そう」といったメッセージを伝えています。 本記事では情熱を探すのではなく、育むアプローチについて紹介されています。
+情熱を持つものを見つける人とそうでない人がいて、後者の人も育むことで前者と人と同じような満足感や成功を得られることが研究から明らかになっているようです。
+著者は「少しでも興味関心を持てることや、他人に貢献できることに取り組んで、その中から少しずつ自分の情熱を育てていきましょう。」とアドバイスしています。
+情熱を育むアプローチは参考になりました。</description>
+    </item>
+    
+    <item>
+      <title>読みました-【コード問題集1】責務違反のRepository</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%B3%E3%83%BC%E3%83%89%E5%95%8F%E9%A1%8C%E9%9B%861%E8%B2%AC%E5%8B%99%E9%81%95%E5%8F%8D%E3%81%AErepository/</link>
+      <pubDate>Thu, 02 May 2019 10:52:22 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%B3%E3%83%BC%E3%83%89%E5%95%8F%E9%A1%8C%E9%9B%861%E8%B2%AC%E5%8B%99%E9%81%95%E5%8F%8D%E3%81%AErepository/</guid>
+      <description>【コード問題集1】責務違反のRepository - little hands&amp;rsquo; labを読みました。
+DDDで登場するRepositoryの責務違反について紹介されていました。</description>
+    </item>
+    
+    <item>
+      <title>読みました-「設計なんて不要でしょ」について</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E8%A8%AD%E8%A8%88%E3%81%AA%E3%82%93%E3%81%A6%E4%B8%8D%E8%A6%81%E3%81%A7%E3%81%97%E3%82%87%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</link>
+      <pubDate>Thu, 02 May 2019 10:20:45 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E8%A8%AD%E8%A8%88%E3%81%AA%E3%82%93%E3%81%A6%E4%B8%8D%E8%A6%81%E3%81%A7%E3%81%97%E3%82%87%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</guid>
+      <description>「設計なんて不要でしょ」について - Qiitaを読みました。
+書かれていた内容に追加すると、設計はチームで共通の認識を持ってコードを書くためのものでもあるかなと思いました。</description>
+    </item>
+    
+    <item>
+      <title>読みました-クックパッドマートiOSアプリを楽しく新規開発した話【連載:クックパッドマート開発の裏側vol</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%AF%E3%83%83%E3%82%AF%E3%83%91%E3%83%83%E3%83%89%E3%83%9E%E3%83%BC%E3%83%88ios%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E6%A5%BD%E3%81%97%E3%81%8F%E6%96%B0%E8%A6%8F%E9%96%8B%E7%99%BA%E3%81%97%E3%81%9F%E8%A9%B1%E9%80%A3%E8%BC%89%E3%82%AF%E3%83%83%E3%82%AF%E3%83%91%E3%83%83%E3%83%89%E3%83%9E%E3%83%BC%E3%83%88%E9%96%8B%E7%99%BA%E3%81%AE%E8%A3%8F%E5%81%B4vol.2/</link>
+      <pubDate>Wed, 10 Apr 2019 12:36:28 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%AF%E3%83%83%E3%82%AF%E3%83%91%E3%83%83%E3%83%89%E3%83%9E%E3%83%BC%E3%83%88ios%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E6%A5%BD%E3%81%97%E3%81%8F%E6%96%B0%E8%A6%8F%E9%96%8B%E7%99%BA%E3%81%97%E3%81%9F%E8%A9%B1%E9%80%A3%E8%BC%89%E3%82%AF%E3%83%83%E3%82%AF%E3%83%91%E3%83%83%E3%83%89%E3%83%9E%E3%83%BC%E3%83%88%E9%96%8B%E7%99%BA%E3%81%AE%E8%A3%8F%E5%81%B4vol.2/</guid>
+      <description>クックパッドマートiOSアプリを楽しく新規開発した話【連載:クックパッドマート開発の裏側 vol.2】 - クックパッド開発者ブログを読みました。
+Xcodeのスニペットを活用しているようでした。 ほとんど使ったことがないので気になります。</description>
+    </item>
+    
+    <item>
+      <title>読みました-CTOにお会いしてきたアイスタイルCTO竹澤有貴さん「自分が示すことで納得感を持ってもらう」</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-cto%E3%81%AB%E3%81%8A%E4%BC%9A%E3%81%84%E3%81%97%E3%81%A6%E3%81%8D%E3%81%9F%E3%82%A2%E3%82%A4%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%ABcto%E7%AB%B9%E6%BE%A4%E6%9C%89%E8%B2%B4%E3%81%95%E3%82%93%E8%87%AA%E5%88%86%E3%81%8C%E7%A4%BA%E3%81%99%E3%81%93%E3%81%A8%E3%81%A7%E7%B4%8D%E5%BE%97%E6%84%9F%E3%82%92%E6%8C%81%E3%81%A3%E3%81%A6%E3%82%82%E3%82%89%E3%81%86/</link>
+      <pubDate>Wed, 10 Apr 2019 12:13:19 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-cto%E3%81%AB%E3%81%8A%E4%BC%9A%E3%81%84%E3%81%97%E3%81%A6%E3%81%8D%E3%81%9F%E3%82%A2%E3%82%A4%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%ABcto%E7%AB%B9%E6%BE%A4%E6%9C%89%E8%B2%B4%E3%81%95%E3%82%93%E8%87%AA%E5%88%86%E3%81%8C%E7%A4%BA%E3%81%99%E3%81%93%E3%81%A8%E3%81%A7%E7%B4%8D%E5%BE%97%E6%84%9F%E3%82%92%E6%8C%81%E3%81%A3%E3%81%A6%E3%82%82%E3%82%89%E3%81%86/</guid>
+      <description>CTOにお会いしてきた アイスタイルCTO竹澤有貴さん「自分が示すことで納得感を持ってもらう」｜SOLMU｜noteを読みました。
+アイスタイルCTOのインタビュー記事です。 メンバーに取ってもらいたい行動を自分で示すのは大事ですね。</description>
+    </item>
+    
+    <item>
+      <title>読みました-2ヶ月間のリモートワークをふりかえる</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-2%E3%83%B6%E6%9C%88%E9%96%93%E3%81%AE%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%92%E3%81%B5%E3%82%8A%E3%81%8B%E3%81%88%E3%82%8B/</link>
+      <pubDate>Mon, 08 Apr 2019 17:32:41 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-2%E3%83%B6%E6%9C%88%E9%96%93%E3%81%AE%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%92%E3%81%B5%E3%82%8A%E3%81%8B%E3%81%88%E3%82%8B/</guid>
+      <description>2ヶ月間のリモートワークをふりかえる｜tarappo｜noteを読みました。
+著者の妻の里帰り出産と一緒に里帰りし、リモートワークを行った方の記事でした。 周知のデメリット以外はデメリットなかったんだなという印象でした。</description>
+    </item>
+    
+    <item>
+      <title>気になる-本</title>
+      <link>https://jumperson.github.com/blog/posts/%E6%B0%97%E3%81%AB%E3%81%AA%E3%82%8B-%E6%9C%AC/</link>
+      <pubDate>Fri, 05 Apr 2019 10:33:11 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E6%B0%97%E3%81%AB%E3%81%AA%E3%82%8B-%E6%9C%AC/</guid>
+      <description>世界史とつなげて学ぶ 中国全史 | 岡本 隆司 |本 | 通販 | Amazon  池袋の本屋さんで見つけた 歴史の本   超約 ヨーロッパの歴史 | 福井 憲彦, John Hirst, ジョン ハースト, 倉嶋 雅人 |本 | 通販 | Amazon  池袋の本屋さんで見つけた 読みやすそうだった   明治維新の正体 新書版 | 鈴木 荘一 |本 | 通販 | Amazon  池袋の本屋さんで見つけた 読みやすそうだった   世界史とつなげて学ぶ 中国全史 | 岡本 隆司 |本 | 通販 | Amazon  池袋の本屋さんで見つけた 読みやすそうだった   イノベーション・オブ・ライフ　ハーバード・ビジネススクールを巣立つ君たちへ | Clayton M.</description>
+    </item>
+    
+    <item>
+      <title>読みました-[IOS]KeyPathを利用してRxSwiftベースのViewModelを刷新する</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-ioskeypath%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6rxswift%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AEviewmodel%E3%82%92%E5%88%B7%E6%96%B0%E3%81%99%E3%82%8B/</link>
+      <pubDate>Mon, 25 Mar 2019 10:22:02 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-ioskeypath%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6rxswift%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AEviewmodel%E3%82%92%E5%88%B7%E6%96%B0%E3%81%99%E3%82%8B/</guid>
+      <description>[iOS]KeyPathを利用してRxSwiftベースのViewModelを刷新する - Qiita を読みました。
+KeyPathを用いたViewModelの実装の紹介がされていました。 記事の中ではcats-oss/Unio: 🔄KeyPath based Unidirectional Input / Output framework with RxSwift.というライブラリを使用していました。
+KeyPathはオブジェクトのプロパティにルールを設けたい場合に使用できるのかなという印象を受けました。 一度試してみたいです。</description>
+    </item>
+    
+    <item>
+      <title>読みました-実装パターン</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E5%AE%9F%E8%A3%85%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3/</link>
+      <pubDate>Mon, 18 Mar 2019 19:27:59 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E5%AE%9F%E8%A3%85%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3/</guid>
+      <description>実装パターン | ケント・ベックを借りられたので読みました。
+本書では、Javaを前提に以下の設計について記載されていました。
+ クラス 状態 振る舞い メソッド コレクション フレームワーク  Java以外でも使える一般的な内容も触れられています。 クラスやメソッドなどの細かい設計判断について書かれている本は少なく、貴重だと感じました。
+個人メモ  他の人が読んで理解できるコードの作成方法について書かれた本 コードを通じて自分の意図を伝える 価値  コミュニケーション シンプル 柔軟性   デザインパターンは一般にクラス間の関係のパターン p27 バリューオブジェクトについてよくまとまっている p37 明確性と直接性を犠牲にして柔軟性を実現 p59  </description>
+    </item>
+    
+    <item>
+      <title>読みました-実装パターン9章コレクション</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E5%AE%9F%E8%A3%85%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B39%E7%AB%A0%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/</link>
+      <pubDate>Mon, 18 Mar 2019 19:27:59 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E5%AE%9F%E8%A3%85%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B39%E7%AB%A0%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/</guid>
+      <description>実装パターン | ケント・ベックを借りられたので読みました。
+その中の9章コレクションにて曖昧に扱っていたコレクションの名称についてまとめられていたので引用します。
+ 配列：最もシンプルだが、最も柔軟性に乏しいコレクションである。大きさは固定され、シンプルなアクセス用の構文を持ち、高速である。 Iterable：基本的なコレクションのインタフェースである。コレクションを「foreach」文の対象にするだけである。 Collection：要素の追加、削除、存在チェックを可能とする。 List：要素の順序付けられ、コレクション内の位置でアクセスできるコレクション Set：重複のないコレクション SortedSet：重複のない、順序付けられたコレクション Map：要素がキーにしたがって格納及び取得されるコレクション  命名に迷ったときはこちらの定義を参考にしたいと思います。</description>
+    </item>
+    
+    <item>
+      <title>読みました-サービスに求められるものを、6段階に分類する</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AB%E6%B1%82%E3%82%81%E3%82%89%E3%82%8C%E3%82%8B%E3%82%82%E3%81%AE%E3%82%926%E6%AE%B5%E9%9A%8E%E3%81%AB%E5%88%86%E9%A1%9E%E3%81%99%E3%82%8B/</link>
+      <pubDate>Sat, 09 Mar 2019 12:48:08 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AB%E6%B1%82%E3%82%81%E3%82%89%E3%82%8C%E3%82%8B%E3%82%82%E3%81%AE%E3%82%926%E6%AE%B5%E9%9A%8E%E3%81%AB%E5%88%86%E9%A1%9E%E3%81%99%E3%82%8B/</guid>
+      <description>サービスに求められるものを、6段階に分類する｜深津 貴之 (fladdict)｜note を読みました。
+デザイナの深津さんの記事で、UXを６段階に分類していました。
+ Lv 1. 機能がある Lv 2. 安全と安心 Lv 3. 使いやすい、わかりやすい Lv 4. 快適、生産性UP Lv 5. 嬉しい、楽しい、美しい Lv 6. 生きがいとか人生とか  基本的には低いレイアから競争が始まり成熟していくについれて高いレイヤに移っていくそうです。 自分たちのサービスが今どのレイアにいて、どこを目指していくべきか考える指標になりそうです。</description>
+    </item>
+    
+    <item>
+      <title>読みました-クラシコムがお手本にする「サンマリノ共和国」は何がすごい？マンリオ・カデロ大使に教わりました</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%AF%E3%83%A9%E3%82%B7%E3%82%B3%E3%83%A0%E3%81%8C%E3%81%8A%E6%89%8B%E6%9C%AC%E3%81%AB%E3%81%99%E3%82%8B%E3%82%B5%E3%83%B3%E3%83%9E%E3%83%AA%E3%83%8E%E5%85%B1%E5%92%8C%E5%9B%BD%E3%81%AF%E4%BD%95%E3%81%8C%E3%81%99%E3%81%94%E3%81%84%E3%83%9E%E3%83%B3%E3%83%AA%E3%82%AA%E3%82%AB%E3%83%87%E3%83%AD%E5%A4%A7%E4%BD%BF%E3%81%AB%E6%95%99%E3%82%8F%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F/</link>
+      <pubDate>Thu, 28 Feb 2019 17:29:42 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%AF%E3%83%A9%E3%82%B7%E3%82%B3%E3%83%A0%E3%81%8C%E3%81%8A%E6%89%8B%E6%9C%AC%E3%81%AB%E3%81%99%E3%82%8B%E3%82%B5%E3%83%B3%E3%83%9E%E3%83%AA%E3%83%8E%E5%85%B1%E5%92%8C%E5%9B%BD%E3%81%AF%E4%BD%95%E3%81%8C%E3%81%99%E3%81%94%E3%81%84%E3%83%9E%E3%83%B3%E3%83%AA%E3%82%AA%E3%82%AB%E3%83%87%E3%83%AD%E5%A4%A7%E4%BD%BF%E3%81%AB%E6%95%99%E3%82%8F%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F/</guid>
+      <description>クラシコムがお手本にする「サンマリノ共和国」は何がすごい？マンリオ・カデロ大使に教わりました – クラシコムジャーナル を読みました。
+サンマリノ共和国には以前よりとても興味を持っており、読ませていただきました。 サンマリノ共和国の魅力を感じれる良い記事でした。 また、情勢の割合が多いと治安が良いという話はとても興味深かったです。</description>
+    </item>
+    
+    <item>
+      <title>読みました-ポール・ヴァレリーから学ぶ</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%83%9D%E3%83%BC%E3%83%AB%E3%83%B4%E3%82%A1%E3%83%AC%E3%83%AA%E3%83%BC%E3%81%8B%E3%82%89%E5%AD%A6%E3%81%B6/</link>
+      <pubDate>Wed, 27 Feb 2019 18:23:11 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%83%9D%E3%83%BC%E3%83%AB%E3%83%B4%E3%82%A1%E3%83%AC%E3%83%AA%E3%83%BC%E3%81%8B%E3%82%89%E5%AD%A6%E3%81%B6/</guid>
+      <description>ポール・ヴァレリーから学ぶ | Think Different を読みました。
+以前、研修でこの言葉を教えていただきました。
+アイデアいっぱいの人は、決して深刻にはならない。
+とてもいい言葉だと感じ、その方を紹介されている記事があったので記録しておきます。</description>
+    </item>
+    
+    <item>
+      <title>読みました-スクラムチームは改善する問題を正しく選んでいますか？</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%A0%E3%83%81%E3%83%BC%E3%83%A0%E3%81%AF%E6%94%B9%E5%96%84%E3%81%99%E3%82%8B%E5%95%8F%E9%A1%8C%E3%82%92%E6%AD%A3%E3%81%97%E3%81%8F%E9%81%B8%E3%82%93%E3%81%A7%E3%81%84%E3%81%BE%E3%81%99%E3%81%8B/</link>
+      <pubDate>Wed, 27 Feb 2019 17:47:15 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%A0%E3%83%81%E3%83%BC%E3%83%A0%E3%81%AF%E6%94%B9%E5%96%84%E3%81%99%E3%82%8B%E5%95%8F%E9%A1%8C%E3%82%92%E6%AD%A3%E3%81%97%E3%81%8F%E9%81%B8%E3%82%93%E3%81%A7%E3%81%84%E3%81%BE%E3%81%99%E3%81%8B/</guid>
+      <description>スクラムチームは改善する問題を正しく選んでいますか？ | Ryuzee.com を読みました。
+スクラムチームも成果を出すことにフォーカスすべき。という主張がされているスライドでした。 スクラムでの成果を決める要素は次の3つだそうです。
+ 問題設定力 開発力 チーム力  この中の「問題設定力」は、ビジネス側/プロダクトオーナーが主に担当する部分で、改善されないケースが多いようです。 そこも含めて解決して成果を出す必要があるとのことでした。</description>
+    </item>
+    
+    <item>
+      <title>読みました-Service LocatorとDependency InjectionパターンとDI Container</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-service-locator%E3%81%A8dependency-injection%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E3%81%A8di-container/</link>
+      <pubDate>Wed, 27 Feb 2019 15:26:17 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-service-locator%E3%81%A8dependency-injection%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E3%81%A8di-container/</guid>
+      <description>Service LocatorとDependency InjectionパターンとDI Container - nuits.jp blog を読みました。
+ServiceLocatorパターンを知らなかったため読みました。 DIと同じようなパターンでその違いがわかりやすくまとめられていました。 結論だけ書いておくとServiceLocatorよりDIの方が良いとのこと。</description>
+    </item>
+    
+    <item>
+      <title>読みました-組織をファーストではなく、セカンドで合わせる。</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E7%B5%84%E7%B9%94%E3%82%92%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E3%82%BB%E3%82%AB%E3%83%B3%E3%83%89%E3%81%A7%E5%90%88%E3%82%8F%E3%81%9B%E3%82%8B/</link>
+      <pubDate>Wed, 27 Feb 2019 13:58:35 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E7%B5%84%E7%B9%94%E3%82%92%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E3%82%BB%E3%82%AB%E3%83%B3%E3%83%89%E3%81%A7%E5%90%88%E3%82%8F%E3%81%9B%E3%82%8B/</guid>
+      <description>組織をファーストではなく、セカンドで合わせる。｜papanda｜note を読みました。
+ちょうど、チームの理念をまとめる必要があるなと感じていたタイミングだったので、刺さりました。 本記事には組織ファーストは効率性があり、組織セカンドは多様性があると書かれており、その通りだと感じました。
+変化が多い今の時代では多様性の方が重視されることが多く、組織セカンドくらいがちょうどよいと感じました。
+ただ、組織セカンドだからといってチームの理念は不要にはならず、リーダーはチームが良くなるための理念を用意すべきだという考えは変わりませんでした。</description>
+    </item>
+    
+    <item>
+      <title>読みました-自動テストのスタブ・スパイ・モックの違い</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E8%87%AA%E5%8B%95%E3%83%86%E3%82%B9%E3%83%88%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%96%E3%82%B9%E3%83%91%E3%82%A4%E3%83%A2%E3%83%83%E3%82%AF%E3%81%AE%E9%81%95%E3%81%84/</link>
+      <pubDate>Wed, 27 Feb 2019 13:48:34 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E8%87%AA%E5%8B%95%E3%83%86%E3%82%B9%E3%83%88%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%96%E3%82%B9%E3%83%91%E3%82%A4%E3%83%A2%E3%83%83%E3%82%AF%E3%81%AE%E9%81%95%E3%81%84/</guid>
+      <description>自動テストのスタブ・スパイ・モックの違い | gotohayato を読みました。
+タイトルには「自動」と入っていますが、自動テストに関わらず、全てのソフトウェアテストで通用する内容でした。 本記事ではxUnit Test Patterns: Refactoring Test Codeで紹介されている定義をベースに、以下の紹介をしていました。
+ テストスタブ テストスパイ モックオブジェクト フェイクオブジェクト ダミーオブジェクト  これらの用語は言葉の定義を忘れがちなので、忘れるたびに見返したいです。</description>
+    </item>
+    
+    <item>
+      <title>読みました-スクラムイベントに出席しない優秀で不可欠な（？）エンジニアをどう扱うか</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%A0%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%AB%E5%87%BA%E5%B8%AD%E3%81%97%E3%81%AA%E3%81%84%E5%84%AA%E7%A7%80%E3%81%A7%E4%B8%8D%E5%8F%AF%E6%AC%A0%E3%81%AA%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%82%92%E3%81%A9%E3%81%86%E6%89%B1%E3%81%86%E3%81%8B/</link>
+      <pubDate>Fri, 15 Feb 2019 19:55:02 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%A0%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%AB%E5%87%BA%E5%B8%AD%E3%81%97%E3%81%AA%E3%81%84%E5%84%AA%E7%A7%80%E3%81%A7%E4%B8%8D%E5%8F%AF%E6%AC%A0%E3%81%AA%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%82%92%E3%81%A9%E3%81%86%E6%89%B1%E3%81%86%E3%81%8B/</guid>
+      <description>スクラムイベントに出席しない優秀で不可欠な（？）エンジニアをどう扱うか | Ryuzee.com を読みました。
+「スクラムイベントに出席しない優秀で不可欠な（？）エンジニアをどう扱うか」のお題に関して、Twitterで意見をもらいそれをまとめた記事です。 記事にも書かれていますが、どの対応が正解ということはなく、それは状況次第です。
+紹介されていた対応の一覧を記載しておきます。
+ 事実を探る 現実を受け止める チームで話し合う そもそもその人は本当に不可欠？ なのか疑う 期待値を明確にする プロセスやイベントの有効性を常に気にかける習慣をつける 内職をさせない仕掛け作り  それぞれの詳細は記事にて。</description>
+    </item>
+    
+    <item>
+      <title>読みました-それは、デザインとは言わない。</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%81%9D%E3%82%8C%E3%81%AF%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%A8%E3%81%AF%E8%A8%80%E3%82%8F%E3%81%AA%E3%81%84/</link>
+      <pubDate>Fri, 15 Feb 2019 19:33:20 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%81%9D%E3%82%8C%E3%81%AF%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%A8%E3%81%AF%E8%A8%80%E3%82%8F%E3%81%AA%E3%81%84/</guid>
+      <description>それは、デザインとは言わない。｜竹内真二＠くじらキャピタル｜note を読みました。
+デザインとは何かについて、事例を交えてわかりやすく紹介されています。
+ デザインとは問題解決  特定の問題解決のため要素を設計すること   ビジュアル的に美しくすることは（それ自体が問題解決につながらない限り）デザインではない  それはスタイリング    </description>
+    </item>
+    
+    <item>
+      <title>読みました-スポーツを通じて、ひとつの笑顔を世界へ！CTOが追い続けるエンジニアライフ</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%92%E9%80%9A%E3%81%98%E3%81%A6%E3%81%B2%E3%81%A8%E3%81%A4%E3%81%AE%E7%AC%91%E9%A1%94%E3%82%92%E4%B8%96%E7%95%8C%E3%81%B8cto%E3%81%8C%E8%BF%BD%E3%81%84%E7%B6%9A%E3%81%91%E3%82%8B%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%A9%E3%82%A4%E3%83%95/</link>
+      <pubDate>Wed, 13 Feb 2019 19:20:42 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%92%E9%80%9A%E3%81%98%E3%81%A6%E3%81%B2%E3%81%A8%E3%81%A4%E3%81%AE%E7%AC%91%E9%A1%94%E3%82%92%E4%B8%96%E7%95%8C%E3%81%B8cto%E3%81%8C%E8%BF%BD%E3%81%84%E7%B6%9A%E3%81%91%E3%82%8B%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%A9%E3%82%A4%E3%83%95/</guid>
+      <description>スポーツを通じて、ひとつの笑顔を世界へ！CTOが追い続けるエンジニアライフ｜株式会社ookami を読みました。
+ookamiのCTOの方のインタビューです。 CTOとして「繋げる」とこを意識しているとのことです。</description>
+    </item>
+    
+    <item>
+      <title>読みました-ハズキルーペ会長が明かす、広告費に100億円かけた〝本当のワケ〟</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%83%8F%E3%82%BA%E3%82%AD%E3%83%AB%E3%83%BC%E3%83%9A%E4%BC%9A%E9%95%B7%E3%81%8C%E6%98%8E%E3%81%8B%E3%81%99%E5%BA%83%E5%91%8A%E8%B2%BB%E3%81%AB100%E5%84%84%E5%86%86%E3%81%8B%E3%81%91%E3%81%9F%E6%9C%AC%E5%BD%93%E3%81%AE%E3%83%AF%E3%82%B1/</link>
+      <pubDate>Wed, 13 Feb 2019 14:21:38 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%83%8F%E3%82%BA%E3%82%AD%E3%83%AB%E3%83%BC%E3%83%9A%E4%BC%9A%E9%95%B7%E3%81%8C%E6%98%8E%E3%81%8B%E3%81%99%E5%BA%83%E5%91%8A%E8%B2%BB%E3%81%AB100%E5%84%84%E5%86%86%E3%81%8B%E3%81%91%E3%81%9F%E6%9C%AC%E5%BD%93%E3%81%AE%E3%83%AF%E3%82%B1/</guid>
+      <description>ハズキルーペ会長が明かす、広告費に100億円かけた〝本当のワケ〟｜@DIME アットダイム を読みました。
+広告費は膨大な予算が使われるため社長の責任で進めるのは正しいと感じました。 また、大量を広告を売ったのには、不正競争防止法で戦うために著名性を高める必要があったのも理由だそうです。
+最後に印象的なフレー時があったので引用しておきます。
+ 瀕死の会社を再生させる為には、新しいビジネスを自分の頭で考えて、勝負しないとダメです。社員達から独創的なアイデアを期待してもダメです。みんなで考えるなど小学校の発想では、会社は直ぐに潰れてしまいます。時間の無駄です。立て直しを覚悟した者1人が寝食も忘れ、夢にうなされながら、自分の頭で考え抜いた閃きこそが唯一の成功の道です。
+ </description>
+    </item>
+    
+    <item>
+      <title>読みました-ヨーロッパはAI時代の競争においてなぜ絶望的なのか</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91%E3%81%AFai%E6%99%82%E4%BB%A3%E3%81%AE%E7%AB%B6%E4%BA%89%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6%E3%81%AA%E3%81%9C%E7%B5%B6%E6%9C%9B%E7%9A%84%E3%81%AA%E3%81%AE%E3%81%8B/</link>
+      <pubDate>Wed, 13 Feb 2019 14:13:15 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91%E3%81%AFai%E6%99%82%E4%BB%A3%E3%81%AE%E7%AB%B6%E4%BA%89%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6%E3%81%AA%E3%81%9C%E7%B5%B6%E6%9C%9B%E7%9A%84%E3%81%AA%E3%81%AE%E3%81%8B/</guid>
+      <description>ヨーロッパはAI時代の競争においてなぜ絶望的なのか - Qiita を読みました。
+書かれている通り、ヨーロッパとアメリカは同一視出来ないと思います。 ヨーロッパは長い歴史を背景に官僚的な体制が強く残っているのでしょう。
+ただ、この記事の指摘は資本主義を前提にしたもので、資本主義が疑問視させている現在においては、 資本主義以外の観点からの考察も必要かもしれないと感じました。</description>
+    </item>
+    
+    <item>
+      <title>読みました-「ティール組織」日本における事例の可能性〜ソニックガーデンはティール組織だったのか？</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%83%86%E3%82%A3%E3%83%BC%E3%83%AB%E7%B5%84%E7%B9%94%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%BA%8B%E4%BE%8B%E3%81%AE%E5%8F%AF%E8%83%BD%E6%80%A7%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%E3%81%AF%E3%83%86%E3%82%A3%E3%83%BC%E3%83%AB%E7%B5%84%E7%B9%94%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%8B/</link>
+      <pubDate>Tue, 12 Feb 2019 12:57:33 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%83%86%E3%82%A3%E3%83%BC%E3%83%AB%E7%B5%84%E7%B9%94%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%BA%8B%E4%BE%8B%E3%81%AE%E5%8F%AF%E8%83%BD%E6%80%A7%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%E3%81%AF%E3%83%86%E3%82%A3%E3%83%BC%E3%83%AB%E7%B5%84%E7%B9%94%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%8B/</guid>
+      <description>「ティール組織」日本における事例の可能性〜ソニックガーデンはティール組織だったのか？ | Social Change! を読みました。
+ティール組織の簡単な紹介と、ソニックガーデンさんのティール適応の度合いについて書かれている記事です。 ティール組織には3つの特徴「セルフマネジメント」「全体性」「常に進化する目的」があり、それらに対して具体的に取り組んでいる内容について書かれていました。
+具体的な取り組みの詳細については別の記事にまとめられていました。
+ セルフマネジメント：セルフマネジメントのレベルと欠かせないスキル 〜 自己組織化されたチームを作るためには | Social Change! 全体性：個人評価をなくした会社の1on1面談の仕方「すりあわせ」 | Social Change! 常に進化する目的：売上目標をなくしてもうまくいく？ 〜 案件よりも人を優先する経営哲学 | Social Change!  </description>
+    </item>
+    
+    <item>
+      <title>読みました-エンジニアリングマネージャーってどうなの？メルカリEMが本音を明かす</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%9E%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%BC%E3%81%A3%E3%81%A6%E3%81%A9%E3%81%86%E3%81%AA%E3%81%AE%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AAem%E3%81%8C%E6%9C%AC%E9%9F%B3%E3%82%92%E6%98%8E%E3%81%8B%E3%81%99/</link>
+      <pubDate>Mon, 11 Feb 2019 15:13:35 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%9E%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%BC%E3%81%A3%E3%81%A6%E3%81%A9%E3%81%86%E3%81%AA%E3%81%AE%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AAem%E3%81%8C%E6%9C%AC%E9%9F%B3%E3%82%92%E6%98%8E%E3%81%8B%E3%81%99/</guid>
+      <description>エンジニアリングマネージャーってどうなの？　メルカリEMが本音を明かす - mercan（メルカン） を読みました。
+メルカリのエンジニアリングのマネジメントに関わってる方々の登壇記事です。 それぞれの立場でマネジメントについて広く語られていました。</description>
+    </item>
+    
+    <item>
+      <title>読みました-常に成長し続けるために必要な３つのこと</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E5%B8%B8%E3%81%AB%E6%88%90%E9%95%B7%E3%81%97%E7%B6%9A%E3%81%91%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E5%BF%85%E8%A6%81%E3%81%AA%EF%BC%93%E3%81%A4%E3%81%AE%E3%81%93%E3%81%A8/</link>
+      <pubDate>Mon, 11 Feb 2019 11:53:37 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E5%B8%B8%E3%81%AB%E6%88%90%E9%95%B7%E3%81%97%E7%B6%9A%E3%81%91%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E5%BF%85%E8%A6%81%E3%81%AA%EF%BC%93%E3%81%A4%E3%81%AE%E3%81%93%E3%81%A8/</guid>
+      <description>常に成長し続けるために必要な３つのこと - そーだいなるらくがき帳 を読みました。
+要約  人が成長するとき  行動した時 結果を振り返った時   これらを得るには問題にチャレンジすることが大切 問題にチャレンジするために大切なこと３＋３つ  過去の成功体験を捨てる 自分の知らない世界に進むこと 自分の目指す成長路線を高く見積もる 失敗する勇気  プロなのだから最善を尽くす   問題解決する決意 前に進むための覚悟    所感 以前読んだセキュアベース・リーダーシップにも書かれていましたが、 大切な事は失敗しても大丈夫と思えることと、前に進むための目標が大事だなと改めて感じました。
+あとは、なによりも行動することが大事。まず動く。</description>
+    </item>
+    
+    <item>
+      <title>読みました-ノムさんの告白「沙知代よ、君がいない毎日は本当につまらなくて」</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%83%8E%E3%83%A0%E3%81%95%E3%82%93%E3%81%AE%E5%91%8A%E7%99%BD%E6%B2%99%E7%9F%A5%E4%BB%A3%E3%82%88%E5%90%9B%E3%81%8C%E3%81%84%E3%81%AA%E3%81%84%E6%AF%8E%E6%97%A5%E3%81%AF%E6%9C%AC%E5%BD%93%E3%81%AB%E3%81%A4%E3%81%BE%E3%82%89%E3%81%AA%E3%81%8F%E3%81%A6/</link>
+      <pubDate>Mon, 11 Feb 2019 11:47:11 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%83%8E%E3%83%A0%E3%81%95%E3%82%93%E3%81%AE%E5%91%8A%E7%99%BD%E6%B2%99%E7%9F%A5%E4%BB%A3%E3%82%88%E5%90%9B%E3%81%8C%E3%81%84%E3%81%AA%E3%81%84%E6%AF%8E%E6%97%A5%E3%81%AF%E6%9C%AC%E5%BD%93%E3%81%AB%E3%81%A4%E3%81%BE%E3%82%89%E3%81%AA%E3%81%8F%E3%81%A6/</guid>
+      <description>ノムさんの告白「沙知代よ、君がいない毎日は本当につまらなくて」（週刊現代） | 現代ビジネス | 講談社（1/4） を読みました。
+素敵な夫婦関係に感じました。</description>
+    </item>
+    
+    <item>
+      <title>読みました-成果で評価していくということ</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E6%88%90%E6%9E%9C%E3%81%A7%E8%A9%95%E4%BE%A1%E3%81%97%E3%81%A6%E3%81%84%E3%81%8F%E3%81%A8%E3%81%84%E3%81%86%E3%81%93%E3%81%A8/</link>
+      <pubDate>Thu, 07 Feb 2019 13:59:43 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E6%88%90%E6%9E%9C%E3%81%A7%E8%A9%95%E4%BE%A1%E3%81%97%E3%81%A6%E3%81%84%E3%81%8F%E3%81%A8%E3%81%84%E3%81%86%E3%81%93%E3%81%A8/</guid>
+      <description>成果で評価していくということ - そーだいなるらくがき帳 を読みました。
+この記事を私なりにまとめておきます。
+ 成果主義と結果主義の違い  成果主義は成果とその過程を踏まえて評価する 結果主義は成果のみ評価する   過程を評価するのは成果が目標を達成した時に限る  目標を達成していない＝過程が良くないと考える   目標が不適切で達成できていない場合は、適切な目標設定をできていないマネージャの責任 成果を評価するには「マネージャが適切に目標を設定すること」と「プレイヤーが行動すること」が重要 行動したことを成果とする目標でもよく、適切な大きさの目標を設定することが重要  所感 目標がない場合よりもある場合のほうが成果上がるような目標でなければ意味がないと考えており、その場合の適切な目標が何かをお互い納得を持って決めるのはなかなか難しいなと感じています。 これに対する解決策として適度な粒度ですべしとのこともわかりますが、なかなか難しいです。</description>
+    </item>
+    
+    <item>
+      <title>読みました-出先でのPC作業効率がアップ!持ち運べるディスプレイ「Gemini」は1万円台</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E5%87%BA%E5%85%88%E3%81%A7%E3%81%AEpc%E4%BD%9C%E6%A5%AD%E5%8A%B9%E7%8E%87%E3%81%8C%E3%82%A2%E3%83%83%E3%83%97%E6%8C%81%E3%81%A1%E9%81%8B%E3%81%B9%E3%82%8B%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4gemini%E3%81%AF1%E4%B8%87%E5%86%86%E5%8F%B0/</link>
+      <pubDate>Wed, 06 Feb 2019 08:37:15 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E5%87%BA%E5%85%88%E3%81%A7%E3%81%AEpc%E4%BD%9C%E6%A5%AD%E5%8A%B9%E7%8E%87%E3%81%8C%E3%82%A2%E3%83%83%E3%83%97%E6%8C%81%E3%81%A1%E9%81%8B%E3%81%B9%E3%82%8B%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4gemini%E3%81%AF1%E4%B8%87%E5%86%86%E5%8F%B0/</guid>
+      <description>出先でのPC作業効率がアップ! 持ち運べるディスプレイ「Gemini」は1万円台 | Techable(テッカブル) を読みました。
+Kickstarterの商品でサブディスプレイとして良さそうでした。</description>
+    </item>
+    
+    <item>
+      <title>読みました-Rubyのまつもと氏、「気分を害することもある。だからどうか建設的であってほしい」</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-ruby%E3%81%AE%E3%81%BE%E3%81%A4%E3%82%82%E3%81%A8%E6%B0%8F%E6%B0%97%E5%88%86%E3%82%92%E5%AE%B3%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%82%82%E3%81%82%E3%82%8B%E3%81%A0%E3%81%8B%E3%82%89%E3%81%A9%E3%81%86%E3%81%8B%E5%BB%BA%E8%A8%AD%E7%9A%84%E3%81%A7%E3%81%82%E3%81%A3%E3%81%A6%E3%81%BB%E3%81%97%E3%81%84/</link>
+      <pubDate>Tue, 05 Feb 2019 21:56:03 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-ruby%E3%81%AE%E3%81%BE%E3%81%A4%E3%82%82%E3%81%A8%E6%B0%8F%E6%B0%97%E5%88%86%E3%82%92%E5%AE%B3%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%82%82%E3%81%82%E3%82%8B%E3%81%A0%E3%81%8B%E3%82%89%E3%81%A9%E3%81%86%E3%81%8B%E5%BB%BA%E8%A8%AD%E7%9A%84%E3%81%A7%E3%81%82%E3%81%A3%E3%81%A6%E3%81%BB%E3%81%97%E3%81%84/</guid>
+      <description>Rubyのまつもと氏、「気分を害することもある。だからどうか建設的であってほしい」 － Publickey
+OSSコミュニティ運営の難しさが書かれていました。 当事者にならないとわからないことがたくさんあると改めて知らされます。
+また、建設的に会話したいと思った時に、どのように話を展開するか迷うことがありますが、このようにすれば良いのだなと学びました。</description>
+    </item>
+    
+    <item>
+      <title>読みました-Slackのロゴが新しくなりました！</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-slack%E3%81%AE%E3%83%AD%E3%82%B4%E3%81%8C%E6%96%B0%E3%81%97%E3%81%8F%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F/</link>
+      <pubDate>Tue, 05 Feb 2019 21:50:54 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-slack%E3%81%AE%E3%83%AD%E3%82%B4%E3%81%8C%E6%96%B0%E3%81%97%E3%81%8F%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F/</guid>
+      <description>Slack のロゴが新しくなりました！ | The Official Slack Blog を読みました。
+Slackのロゴを新しくした経緯について詳しく紹介されています。 ロゴを作る時に気をつけるべきところがいろいろと書かれていました。</description>
+    </item>
+    
+    <item>
+      <title>読みました-チームファーストがプロダクトを殺す。</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%83%81%E3%83%BC%E3%83%A0%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%81%8C%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%82%92%E6%AE%BA%E3%81%99/</link>
+      <pubDate>Tue, 05 Feb 2019 21:41:43 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%83%81%E3%83%BC%E3%83%A0%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%81%8C%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%82%92%E6%AE%BA%E3%81%99/</guid>
+      <description>チームファーストがプロダクトを殺す。｜papanda｜note を読みました。
+チームのモードを チームファースト と プロダクトファースト に分割して考えている記事でした。 チームをそのように捉えたことはなかったですが、良い分類の仕方だと感じました。
+書かれてる通りですが、どちらが正解ということではなく局面次第です。 ただ、私の経験と照らし合わせると、まずは成果を上げて信頼関係を築くことが大切（プロダクトファースト）で、その後に成果を継続的に出すために、チームファーストに移行していくと良いと思います。
+また、今どのモードにあるかの認識をチーム内で合わせておかないと、個々の意思決定でばらつきが出てしまうので、チーム内で認識を合わせることが大事だと感じました。（これも書いてあります）</description>
+    </item>
+    
+    <item>
+      <title>読みました-歴代ジャンプの悪の組織</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E6%AD%B4%E4%BB%A3%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E3%81%AE%E6%82%AA%E3%81%AE%E7%B5%84%E7%B9%94/</link>
+      <pubDate>Tue, 05 Feb 2019 21:24:49 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E6%AD%B4%E4%BB%A3%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E3%81%AE%E6%82%AA%E3%81%AE%E7%B5%84%E7%B9%94/</guid>
+      <description>歴代ジャンプの悪の組織 心理的安全性ランキング - なべはるの人事徒然 を読みました。
+漫画の悪の組織を例に心理的安全性について振られれており、心理的安全性の入り口としては面白いなと感じました。 また、ホラクラシー組織についても触れられています。</description>
+    </item>
+    
+    <item>
+      <title>読みました-評価制度の無い評価制度</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E8%A9%95%E4%BE%A1%E5%88%B6%E5%BA%A6%E3%81%AE%E7%84%A1%E3%81%84%E8%A9%95%E4%BE%A1%E5%88%B6%E5%BA%A6/</link>
+      <pubDate>Tue, 05 Feb 2019 12:34:14 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E8%A9%95%E4%BE%A1%E5%88%B6%E5%BA%A6%E3%81%AE%E7%84%A1%E3%81%84%E8%A9%95%E4%BE%A1%E5%88%B6%E5%BA%A6/</guid>
+      <description>評価制度の無い評価制度 を読みました。
+時雨堂という会社の評価制度に関するページです。 なぜ、評価制度を無くしているのかについて書かれていたり、最大社員数を10人と想定しているので、スケールしない問題は関係ないなどの、評価制度以外の仕組みについても書かれていました。
+他のドキュメントにも簡単に目を通しましたが、面白い会社の形だと感じました。</description>
+    </item>
+    
+    <item>
+      <title>読みました-旅をしながら仕事をする、あるいはリモートワークができるチームの作り方の話</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E6%97%85%E3%82%92%E3%81%97%E3%81%AA%E3%81%8C%E3%82%89%E4%BB%95%E4%BA%8B%E3%82%92%E3%81%99%E3%82%8B%E3%81%82%E3%82%8B%E3%81%84%E3%81%AF%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%81%E3%83%BC%E3%83%A0%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%E3%81%AE%E8%A9%B1/</link>
+      <pubDate>Mon, 04 Feb 2019 11:49:55 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E6%97%85%E3%82%92%E3%81%97%E3%81%AA%E3%81%8C%E3%82%89%E4%BB%95%E4%BA%8B%E3%82%92%E3%81%99%E3%82%8B%E3%81%82%E3%82%8B%E3%81%84%E3%81%AF%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%81%E3%83%BC%E3%83%A0%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%E3%81%AE%E8%A9%B1/</guid>
+      <description>旅をしながら仕事をする、あるいはリモートワークができるチームの作り方の話 - tomoima525&amp;rsquo;s blog を読みました。
+リモートメンバーが働きやすいチームとは何かについて触れられているとのことで読んでみました。 以下のことが書かれていました。
+ コミュニケーションコストを低くする  情報源をひとつに集約する ミーティングを避ける   タスクにコミットメントする仕組みづくり  チーム全員が目標に対して責任を持つ  OKRなどの手法   チーム全員がタスクの達成条件を明確にする  カンバンなどの手法     リモートメンバーを信頼するマインドセットの醸成  &amp;ldquo;ひとりにしない(left alone)&amp;ldquo;ことも重要だが、&amp;ldquo;ひとりで自走できる(be able to run alone)&amp;ldquo;も重要 リモートメンバーを信頼するための&amp;quot;問いかけ&amp;quot;については以下のブログがとても参考になる  Managing Remote Teams - A Crash Course - Startup Lessons Learned      リモートワークを行う上では行うメンバーと受け入れるチームの両方がそのための工夫を行う必要があります。 実践を通した内容でそれらの事に振られれていた記事でした。</description>
+    </item>
+    
+    <item>
+      <title>読みました-Ubie株式会社の就業規則</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-ubie%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%B0%B1%E6%A5%AD%E8%A6%8F%E5%89%87/</link>
+      <pubDate>Sun, 03 Feb 2019 21:38:58 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-ubie%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%B0%B1%E6%A5%AD%E8%A6%8F%E5%89%87/</guid>
+      <description>Ubie株式会社の就業規則がGitHubで管理されオープンになっており、また変更依頼もPRでされていました。 オープンな点など、非常に良い制度に感じました。
+GitHub - ubie-inc/work-rules</description>
+    </item>
+    
+    <item>
+      <title>読みました-スクラムチーム内で1on1を実施した話</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%A0%E3%83%81%E3%83%BC%E3%83%A0%E5%86%85%E3%81%A71on1%E3%82%92%E5%AE%9F%E6%96%BD%E3%81%97%E3%81%9F%E8%A9%B1/</link>
+      <pubDate>Sun, 03 Feb 2019 12:29:16 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%A0%E3%83%81%E3%83%BC%E3%83%A0%E5%86%85%E3%81%A71on1%E3%82%92%E5%AE%9F%E6%96%BD%E3%81%97%E3%81%9F%E8%A9%B1/</guid>
+      <description>スクラムチーム内で1on1を実施した話 を読みました。
+ ・アジャイルが実践できているチームの理想状態は、環境に適応して不確実性をもっとも効率よく削減できている状態。 ・不確実性を減らす全ての起点は「対話」。
+ 上記の認識を持っているチームで、対話を増やすためにメンバー間の1on1を実施した事の紹介記事です。 記事にも書かれていますが、1on1に限らずいろいろな方法を試して行ければ良いかなと感じました。</description>
+    </item>
+    
+    <item>
+      <title>読みました-シリコンバレーの日常「サルたちの狂宴」</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%B7%E3%83%AA%E3%82%B3%E3%83%B3%E3%83%90%E3%83%AC%E3%83%BC%E3%81%AE%E6%97%A5%E5%B8%B8%E3%82%B5%E3%83%AB%E3%81%9F%E3%81%A1%E3%81%AE%E7%8B%82%E5%AE%B4/</link>
+      <pubDate>Wed, 12 Dec 2018 10:42:17 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%B7%E3%83%AA%E3%82%B3%E3%83%B3%E3%83%90%E3%83%AC%E3%83%BC%E3%81%AE%E6%97%A5%E5%B8%B8%E3%82%B5%E3%83%AB%E3%81%9F%E3%81%A1%E3%81%AE%E7%8B%82%E5%AE%B4/</guid>
+      <description>シリコンバレーの日常「サルたちの狂宴」 – suadd blog を読みました。
+シリコンバレーでスタートアップをやっていた方の書籍で、リアルをぶっちゃけている書籍で、スタートアップに関わる方は必読なようです。 私は、スタートアップに関わってはいませんが、読んでみたいと感じました。</description>
+    </item>
+    
+    <item>
+      <title>読みました-マイクロサービスチーム編成のベストプラクティスとメルカリでの構想</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%83%81%E3%83%BC%E3%83%A0%E7%B7%A8%E6%88%90%E3%81%AE%E3%83%99%E3%82%B9%E3%83%88%E3%83%97%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%82%B9%E3%81%A8%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AA%E3%81%A7%E3%81%AE%E6%A7%8B%E6%83%B3/</link>
+      <pubDate>Mon, 03 Dec 2018 17:17:55 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%83%81%E3%83%BC%E3%83%A0%E7%B7%A8%E6%88%90%E3%81%AE%E3%83%99%E3%82%B9%E3%83%88%E3%83%97%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%82%B9%E3%81%A8%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AA%E3%81%A7%E3%81%AE%E6%A7%8B%E6%83%B3/</guid>
+      <description>マイクロサービスチーム編成のベストプラクティスとメルカリでの構想 - Mercari Engineering Blog を読みました。
+マイクロサービスを行っている組織の紹介があり、以下のようにまとめられていました。
+ チームにソフトウェア全般に関する自由度と責任の両方を与え、自己組織化されたチームとすることで、すばやく「より良い」ソフトウェアを開発できるようになり、これこそがマイクロサービスアーキテクチャのメリットとされています。
+ マイクロサービスの肝は組織と文化だと思っているのですが、どの程度浸透しているのでしょうか。</description>
+    </item>
+    
+    <item>
+      <title>読みました-心理的安全を担保するために、友達同士で設計について語る会を開いた</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E5%BF%83%E7%90%86%E7%9A%84%E5%AE%89%E5%85%A8%E3%82%92%E6%8B%85%E4%BF%9D%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E5%8F%8B%E9%81%94%E5%90%8C%E5%A3%AB%E3%81%A7%E8%A8%AD%E8%A8%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%AA%9E%E3%82%8B%E4%BC%9A%E3%82%92%E9%96%8B%E3%81%84%E3%81%9F/</link>
+      <pubDate>Mon, 03 Dec 2018 16:49:31 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E5%BF%83%E7%90%86%E7%9A%84%E5%AE%89%E5%85%A8%E3%82%92%E6%8B%85%E4%BF%9D%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E5%8F%8B%E9%81%94%E5%90%8C%E5%A3%AB%E3%81%A7%E8%A8%AD%E8%A8%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%AA%9E%E3%82%8B%E4%BC%9A%E3%82%92%E9%96%8B%E3%81%84%E3%81%9F/</guid>
+      <description>心理的安全を担保するために、友達同士で設計について語る会を開いた - 📦田中、仙台に生きる📦 を読みました。
+炎上しそうな話題は小規模に、心理的安全性を担保するように1度やってみるのは良いなと思いました。</description>
+    </item>
+    
+    <item>
+      <title>読みました-エンジニアリングマネージャーとソフトウェア設計者に共通するスキルを考えてみた</title>
+      <link>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%9E%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%BC%E3%81%A8%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E8%A8%AD%E8%A8%88%E8%80%85%E3%81%AB%E5%85%B1%E9%80%9A%E3%81%99%E3%82%8B%E3%82%B9%E3%82%AD%E3%83%AB%E3%82%92%E8%80%83%E3%81%88%E3%81%A6%E3%81%BF%E3%81%9F/</link>
+      <pubDate>Mon, 03 Dec 2018 16:30:22 +0900</pubDate>
+      
+      <guid>https://jumperson.github.com/blog/posts/%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%9E%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%BC%E3%81%A8%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E8%A8%AD%E8%A8%88%E8%80%85%E3%81%AB%E5%85%B1%E9%80%9A%E3%81%99%E3%82%8B%E3%82%B9%E3%82%AD%E3%83%AB%E3%82%92%E8%80%83%E3%81%88%E3%81%A6%E3%81%BF%E3%81%9F/</guid>
+      <description>エンジニアリングマネージャーとソフトウェア設計者に共通するスキルを考えてみた - Mercari Engineering Blog を読みました。
+ エンジニアリングマネージャーとソフトウェア設計者には「緊張関係にある複数の要素に対して、なんとかバランスを取る」という共通の構造がある これを行うために重要な要素は「視点」「フォーカス」「説明力」の3つ  所感 共通するスキルは多くの人と関わって仕事をする上で必要なスキルで、エンジニアリングマネージャーとソフトウェア設計者に限らないと感じました。</description>
+    </item>
+    
+  </channel>
 </rss>
